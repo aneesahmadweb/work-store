@@ -1,0 +1,83 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1500046295;s:6:"expire";i:1500132695;s:4:"tags";s:49:"6b0_VES_PAGEBUILDER_BLOCK,6b0_BLOCK_HTML,6b0_MAGE";}
+<div class="block vesbuilder-block  ">
+		<div class="block-content">
+		<div id="ves-blockbuilder298281500046295" class="">
+ 				    	    		    	
+	        <div class="ves-container   "   style="padding:70px 0 45px">
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   a-center" >
+	        				    			    			    				
+			    <div class="row row-level-1  row-no-margin" >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-3 col-md-2 col-sm-1 col-xs-12  col-no-padding"   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-6 col-md-8 col-sm-10 col-xs-12  col-no-padding"   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget widget-newsletter newsletter block custom-subscribe ">
+    <div class="block-title ">
+                <strong><span>Join Our Newsletter</span></strong>
+    </div>
+    <div id="widget-newsletter310271500046295" class="widget-inner block-content ">
+        <form class="form subscribe"
+            novalidate
+            action="http://localhost/test-store/newsletter/subscriber/new/"
+            method="post"
+            data-mage-init='{"validation": {"errorClass": "mage-error"}}'
+            id="newsletter-validate-detail">
+            <div class="field newsletter">
+                <div class="control">
+                    <input name="email" type="email" id="newsletter"
+                                placeholder="Your email address"
+                                data-validate="{required:true, 'validate-email':true}" class=""/>
+                </div>
+            </div>
+            <div class="actions">
+                <button class="action subscribe primary" title="Subscribe" type="submit">
+                    <span>Subscribe</span>
+                </button>
+            </div>
+            <label class="label" for="newsletter"><span>Subscribe to receive inspiration, ideas and news in your inbox.</span></label>
+        </form>
+    </div>
+</div>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-3 col-md-2 col-sm-1 col-xs-12  col-no-padding"   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        				</div>
+		    </div>
+		    </div>
+		    	    
+	 	  	</div>
+	</div>
+</div>

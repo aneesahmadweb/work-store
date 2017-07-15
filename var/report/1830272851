@@ -1,0 +1,35 @@
+a:4:{i:0;s:1690:"Please upgrade your database: Run "bin/magento setup:upgrade" from the Magento root directory. 
+The following modules are outdated:
+MGS_Blog schema: current version - none, required version - 2.0.1
+MGS_Blog data: current version - none, required version - 2.0.1
+MGS_Brand schema: current version - none, required version - 2.0.1
+MGS_Brand data: current version - none, required version - 2.0.1
+MGS_Core schema: current version - none, required version - 0.1.0
+MGS_Core data: current version - none, required version - 0.1.0
+MGS_Mmegamenu schema: current version - none, required version - 1.0.0.0
+MGS_Mmegamenu data: current version - none, required version - 1.0.0.0
+MGS_Mpanel schema: current version - none, required version - 1.0.0.0
+MGS_Mpanel data: current version - none, required version - 1.0.0.0
+MGS_Portfolio schema: current version - none, required version - 1.0.0.0
+MGS_Portfolio data: current version - none, required version - 1.0.0.0
+MGS_Promobanners schema: current version - none, required version - 1.0.0.1
+MGS_Promobanners data: current version - none, required version - 1.0.0.1
+MGS_Social schema: current version - none, required version - 2.0.0
+MGS_Social data: current version - none, required version - 2.0.0
+MGS_StoreLocator schema: current version - none, required version - 0.0.3
+MGS_StoreLocator data: current version - none, required version - 0.0.3
+MGS_Testimonial schema: current version - none, required version - 1.0.0.0
+MGS_Testimonial data: current version - none, required version - 1.0.0.0
+MGS_QuickView schema: current version - none, required version - 2.0.0
+MGS_QuickView data: current version - none, required version - 2.0.0";i:1;s:2458:"#0 D:\xa\htdocs\test-store\vendor\magento\framework\Interception\Chain\Chain.php(67): Magento\Framework\Module\Plugin\DbStatusValidator->aroundDispatch(Object(Magento\Framework\App\FrontController\Interceptor), Object(Closure), Object(Magento\Framework\App\Request\Http))
+#1 D:\xa\htdocs\test-store\vendor\magento\framework\Interception\Chain\Chain.php(63): Magento\Framework\Interception\Chain\Chain->invokeNext('Magento\\Framewo...', 'dispatch', Object(Magento\Framework\App\FrontController\Interceptor), Array, 'front-controlle...')
+#2 D:\xa\htdocs\test-store\vendor\magento\module-page-cache\Model\App\FrontController\VarnishPlugin.php(55): Magento\Framework\Interception\Chain\Chain->Magento\Framework\Interception\Chain\{closure}(Object(Magento\Framework\App\Request\Http))
+#3 D:\xa\htdocs\test-store\vendor\magento\framework\Interception\Chain\Chain.php(67): Magento\PageCache\Model\App\FrontController\VarnishPlugin->aroundDispatch(Object(Magento\Framework\App\FrontController\Interceptor), Object(Closure), Object(Magento\Framework\App\Request\Http))
+#4 D:\xa\htdocs\test-store\vendor\magento\framework\Interception\Interceptor.php(138): Magento\Framework\Interception\Chain\Chain->invokeNext('Magento\\Framewo...', 'dispatch', Object(Magento\Framework\App\FrontController\Interceptor), Array, 'front-controlle...')
+#5 D:\xa\htdocs\test-store\vendor\magento\module-page-cache\Model\App\FrontController\BuiltinPlugin.php(73): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}(Object(Magento\Framework\App\Request\Http))
+#6 D:\xa\htdocs\test-store\vendor\magento\framework\Interception\Interceptor.php(142): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch(Object(Magento\Framework\App\FrontController\Interceptor), Object(Closure), Object(Magento\Framework\App\Request\Http))
+#7 D:\xa\htdocs\test-store\var\generation\Magento\Framework\App\FrontController\Interceptor.php(26): Magento\Framework\App\FrontController\Interceptor->___callPlugins('dispatch', Array, Array)
+#8 D:\xa\htdocs\test-store\vendor\magento\framework\App\Http.php(135): Magento\Framework\App\FrontController\Interceptor->dispatch(Object(Magento\Framework\App\Request\Http))
+#9 D:\xa\htdocs\test-store\vendor\magento\framework\App\Bootstrap.php(258): Magento\Framework\App\Http->launch()
+#10 D:\xa\htdocs\test-store\index.php(39): Magento\Framework\App\Bootstrap->run(Object(Magento\Framework\App\Http))
+#11 {main}";s:3:"url";s:35:"/test-store/customer/account/login/";s:11:"script_name";s:21:"/test-store/index.php";}

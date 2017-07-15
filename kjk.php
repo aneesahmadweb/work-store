@@ -1,0 +1,204 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Administrator
+ * Date: 6/23/2017
+ * Time: 10:34 AM
+ */
+<form action="http://it-dealers.com/submit/form.php" method="post" name="Credit Applicaton Form">
+<div class="credit-application-form">
+<h1><strong>Credit Applicaton Online Form</strong></h1>
+<p></p>
+<p>Welcome to the Credit Processing Unit!</p>
+<p>We welcome all Govt. Departments, Federal Agencies, Non-Profit Organizations &amp; Charities, Schools and Universities. They are pre-approved on our list, all you have to do is fill the below given application form and apply. We will confirm you your credit account availability within 5 business days.</p>
+<div class="credit-application-form">
+<table align="left" cellpadding="" cellspacing="5" style="width: 100%;">
+<tbody>
+<tr>
+<td width="30%">Company Name:<sub style="color: #f00; vertical-align: top;">*</sub></td>
+<td width="70%"><input id="companyname" name="companyname" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Nature of Business:</td>
+<td width="70%"><input id="natureofbussiness" name="natureofbussiness" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Address:<sub style="color: #f00; vertical-align: top;">*</sub></td>
+<td width="70%"><input id="address" name="address" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Post Code:<sub style="color: #f00; vertical-align: top;">*</sub></td>
+<td width="70%"><input id="postcod" name="postcode" size="70" style="padding: 5px; width: 56.1%;  margin-bottom: 5px; " type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Telephone Number:<sub style="color: #f00; vertical-align: top;">*</sub></td>
+<td width="70%"><input id="telephonenumber" name="telephonenumber" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Fax Number:</td>
+<td width="70%"><input id="faxnumber" name="faxnumber" size="70" style="padding: 5px; margin-bottom: 5px; width: 56.1%;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Registered Address(if different):</td>
+<td width="70%"><input id="registeredaddress" name="registeredaddressif" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">E-mail address:<sub style="color: #f00; vertical-align: top;">*</sub></td>
+<td width="70%"><input id="e-mailaddress" name="emailaddress" size="70" style="padding: 5px; margin-bottom: 5px;" type="email" /></td>
+</tr>
+<tr>
+<td width="30%">Company registration Number:</td>
+<td width="70%"><input id="companyregistrationnumber" name="companyregistrationnumber" size="70" style="padding: 5px; margin-bottom: 5px; width: 56.1%;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Accounts Contact:</td>
+<td width="70%"><input id="accountscontact" name="accountscontact" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Telephone Number:</td>
+<td width="70%"><input id="telephonenumber" name="personaladdress" size="70" style="padding: 5px; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Fax Number:</td>
+<td width="70%"><input id="faxnumber" name="faxnumber" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">E-mail address:</td>
+<td width="70%"><input id="e-mailaddress" name="e-mailaddress" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Holding Company name(if applicable):</td>
+<td width="70%"><input id="holdingcompanyname" name="holdingcompanyname" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Holding company address:</td>
+<td width="70%"><input id="holdingcompanyaddress" name="holdingcompanyaddress" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Telephone Number(if applicable):</td>
+<td width="70%"><input id="telephonenumber(if applicable)" name="htelephonenumber" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Post Code:</td>
+<td width="70%"><input id="postcode" name="hpostcode" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Invoice Address(if different):</td>
+<td width="70%"><input id="invoiceaddress(if different)" name="invoiceaddress" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Post Code:</td>
+<td width="70%"><input id="postcode" name="hipostcode" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Date Trading Commenced:</td>
+<td width="70%"><input id="datetradingcommenced" name="datetradingcommenced" size="70" style="padding: 5px; margin-bottom: 5px;" type="date" /></td>
+</tr>
+<tr>
+<td width="30%">Name of Managing Director:<sub style="color: #f00; vertical-align: top;">*</sub></td>
+<td width="70%"><input id="nameofmanagingdirector" name="nameofmanagingdirector" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Finance Director:</td>
+<td width="70%"><input id="financedirector" name="financedirector" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Vat registration Number:<sub style="color: #f00; vertical-align: top;">*</sub></td>
+<td width="70%"><input id="vatregistrationnumber" name="vatregistrationnumber" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Annual Turnover last 2 years - Most recent:</td>
+<td width="70%"><input id="annualturnoverlast 2 years-mostrecent" name="annualturnoverlast" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Previous:</td>
+<td width="70%"><input id="Previous" name="Previous" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Finance Director:</td>
+<td width="70%"><input id="financedirector" name="financedirector" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td>
+<h3>Trade Reference 1</h3>
+</td>
+</tr>
+<tr>
+<td width="30%">Company:</td>
+<td width="70%"><input id="Company" name="Company" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Address:</td>
+<td width="70%"><input id="Address" name="Address" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Contact:</td>
+<td width="70%"><input id="Contact" name="Contact" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Post Code:</td>
+<td width="70%"><input id="postcode1" name="postcode1" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td>
+<h3>Trade Reference 2</h3>
+</td>
+</tr>
+<tr>
+<td width="30%">Company</td>
+<td width="70%"><input id="postcode" name="Company" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Address</td>
+<td width="70%"><input id="Address" name="Address" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Post Code</td>
+<td width="70%"><input id="postcode" name="postcode" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td width="30%">Contact</td>
+<td width="70%"><input id="Contact" name="Contact" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="number" /></td>
+</tr>
+<tr>
+<td>
+<h3>Bank Details</h3>
+</td>
+</tr>
+<tr>
+<td width="30%">Bank Name</td>
+<td width="70%"><input id="BankName" name="BankName" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Bank Address</td>
+<td width="70%"><input id="BankAddress" name="BankAddress" size="70" style="padding: 5px; margin-bottom: 5px;" type="text" /></td>
+</tr>
+<tr>
+<td width="30%">Post Code</td>
+<td width="70%"><input id="postcode" name="postcode" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="Number" /></td>
+</tr>
+<tr>
+<td width="30%">Telephone Number</td>
+<td width="70%"><input id="telephonenumber" name="personaladdress" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="Number" /></td>
+</tr>
+<tr>
+<td width="30%">Account number</td>
+<td width="70%"><input id="Accountnumber" name="Accountnumber" size="70" style="padding: 5px; width: 56.1%; margin-bottom: 5px;" type="Number" /></td>
+</tr>
+<tr>
+<td width="30%">Sort Code</td>
+<td width="70%"><input id="SortCode" name="SortCode" size="70" style="padding: 5px; margin-bottom: 5px; width: 56.1%;" type="Number" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="credit-agreement" style="text-align: center;">
+<h3>CREDIT AGREEMENT</h3>
+<div class="credit-agreement-txt" style="overflow: auto; padding: 10px; border: 1px solid #dddddd; height: 250px; margin: auto; color: #333333; text-align: justify;">
+<p><strong>Definitions</strong></p>
+<p>"Working days" means Monday to Friday, excluding Bank or other Public holidays. "Force Majeure" means any event affecting IT-Dealers ability to fulfil its obligations arising from acts, causes, omissions, events or non-events beyond reasonable control including government regulations, fire, flood, disaster, industrial dispute."Catalogue" means products offered by IT-Dealers on the website www.it-dealers.com.</p>
+<p><br /> <br /> <strong>Contracts of sale</strong>&nbsp;<br /> All contracts of sale made by IT-Dealers shall be deemed to be governed by these terms and conditions, which shall prevail over any other terms, produced by the party ("the Customer") to whom IT-Dealers is selling. Cancellation of orders by business customers is only accepted at the discretion of IT-Dealers and cannot be accepted where goods are dispatched the same day as the order is placed. IT-Dealers can only accept cancellation of orders by consumers in accordance with the Consumer Protection (Distance Selling) Regulations 2000. All orders are subject to acceptance by IT-Dealers and to availability of goods ordered. IT-Dealers reserves the right to refuse any order. The Customer undertakes that all details provided for the purchase of goods via our website are correct. The Customer also undertakes that the credit card or debit card used to purchase goods is either their own or their Company's own and that they have authorisation to use it. The Customer furthermore undertakes that sufficient funds will be available to cover the cost of goods ordered. IT-Dealers reserves the right to satisfy itself as to the validation of credit or debit card details prior to supply of goods.<br /> <br /> <strong>Terms &amp; Conditions of Sales</strong><br /> Orders placed over the phone, email and online will be subject to the following terms and conditions. Title to the product shall remain vested in IT-Dealers and shall not pass to the Customer until the purchase price for the product has been paid in full and received by IT-Dealers until title to product passes. 1- IT-Dealers shall have authority to retake, sell or otherwise deal with and/or dispose of all or any part of the product. 2- IT-Dealers and its agents and employees shall be entitled at any time and without the need to give notice enter upon any property upon which product or any part are stored, or upon which IT-Dealers reasonably believes them to be kept. 3- The customer shall store or mark the product in a manner reasonably satisfactory to IT-Dealers indicating that title to product remains vested in IT-Dealers. 4- The customer shall insure the product to their full replacement value, and arrange for IT-Dealers to be noted on the policy of insurance as the loss payee.<br /> <br /> <strong>Prices</strong><br /> Goods are invoiced at the price prevailing at the time of order. Invoices will be subject to VAT unless specifically indicated. Overnight delivery services will be invoiced at the rates shown on the website unless agreed otherwise. IT-Dealers reserves the right to modify pricing where necessary from time to time.<br /> <br /> <strong>Delivery, Title and Risk</strong><br /> Times and dates stated for delivery can only be estimated. Whilst every effort will be made to meet Customer requirements and deadlines, IT-Dealers cannot accept liability for failure to deliver within the stated timescales.<br /> If for any reason and in the unlikely event that IT-Dealers is unable to deliver goods, the Customer will be offered the opportunity to cancel the order or select alternative goods available. If a written order has been received, a written cancellation must be forwarded to IT-Dealers.<br /> IT-Dealers cannot accept liability for damage or incomplete deliveries unless notified by the Customer within 3 days of delivery. The Customer is responsible for accepting delivery of goods once ready.<br /> Delivery is deemed to have taken place once goods have been delivered to the Customer's given delivery address. At this point, all risk of loss, breakage and damage pass to the Customer.<br /> Title to the goods passes from IT-Dealers to the Customer when payment has been received in full.<br /> If the Customer is unable to accept delivery of the goods, IT-Dealers may a) Store and insure the goods at the Customer's expense and risk, b) Resell the goods at the best price obtainable and refund the customer any excess achieved once storage and restocking costs have been deducted, c) Re-arrange delivery at a later date at the Customer's expense.<br /> <br /> <strong>Payment</strong><br /> Standard terms of payment are by debit or credit card payable at the point of order. Other terms may be agreed at the discretion of IT-Dealers and in writing.<br /> If payment terms other than by debit or credit card prior to delivery are agreed and payment is not made on the due date, IT-Dealers will be entitled to charge interest on any outstanding balance at an interest rate 3% above respective bank base lending rate applicable at the time.<br /> For Corporate and Educational Accounts, the standard credit terms available are NET30, unless otherwise stipulated. Payment for purchases should be received at or within the date proscribed on invoices issued from the date of dispatch of items to customers. To ensure maintenance of agreed credit terms, prompt payment is always requested, and IT-Dealers maintains the right to alter net terms depending on payment history.<br /> <br /> <strong>Product Specifications</strong><br /> Goods may be subject to minor variations in actual dimensions, specifications and quantities. In such a case, if the Customer does not wish to accept the alternative goods, he/she reserves the right to cancel the order and have any money paid to IT-Dealers in respect of that order refunded. This will be the sole remedy of the Customer in these circumstances.<br /> <br /> <strong>Trade Names and Trade Marks</strong>&nbsp;<br /> Trade names and marks may not always be indicative of the actual manufacturer of a particular product and may be an indication of systems for general use and machines that may be associated with such products.<br /> <br /> In the case of components, purchasers requiring a part to be manufactured by a particular manufacturer should check in advance of purchase to verify the identity of the component's actual manufacturer.<br /> <br /> <strong>Warranties and Returns</strong>&nbsp;<br /> Although IT-Dealers is committed to providing customers with the highest possible quality of products and services, products may, on occasion, be found to be faulty or defective. In any such case, we would offer the following facilities:<br /> All goods supplied by IT-Dealers are warranted to be generally free from any defect in workmanship and materials and fit for the purpose for which these goods would normally be used. If goods or services are purchased in the course of your business, these are excluded to the fullest extent permitted by law from all other express or implied terms or warranties.<br /> Subject to the right of consumers to return goods for refund under the Consumer Protection (Distance Selling) Regulations 2000, IT-Dealers does not sell products on a trial basis. We strongly recommend that our customers check suitability and specification of products before placing orders.<br /> In the event of IT-Dealers agreeing to accept the return for credit of unwanted products at its discretion (unless under the Consumer Protection (Distance Selling) Regulations2000), these must be returned with IT-Dealers ' written agreement within 7 days of date of delivery. The goods must be unopened and in perfect resalable condition. Goods returned in these circumstances will be subject to a restocking fee of 15% of the sales value of the goods, or $50.00, whichever is the greater. IT-Dealers will reserve the right to test for any alleged fault found with goods return for replacement or credit. All faults must be reported within 7 days of date of delivery.<br /> IT-Dealers ' support staff will advise you of the most appropriate method of delivery regarding returned goods, either by courier collection or by postal delivery direct to us. IT-Dealers will not cover the cost of goods returned which are found to be defective. If a courier collection is arranged, it will be the responsibility of the customer to be available to hand over the goods in question.<br /> All goods should be returned under a IT-Dealers Returns Authorisation Number, which will be issued by our customer support staff on request. No goods can be accepted for return without this number and the number should be clearly marked on the outer packaging.<br /> Failure to follow this procedure may result in delays and additional costs.<br /> With regard to the return of faulty goods, it is the Customer's responsibility to ensure that the goods are adequately packed. IT-Dealers cannot accept liability for goods damaged in transit due to insufficient packaging.<br /> Proof of postage is not proof of delivery; customers are advised that goods returned should be sent via either recorded delivery, registered post or by courier, with sufficient insurance to cover the replacement value of the goods.<br /> On receipt of the returned product, IT-Dealers will test it to verify the fault. If, following this procedure the product is found to be in good working order, we will return the product to you.<br /> All warranties will be rendered inapplicable if goods have been interfered with, altered or damaged in any way by the Customer or its agents, or if goods have not been used accordance with manufacturer's instructions.<br /> Unless otherwise stated in the manufacturer's documentation, all goods supplied to Customers in the US carry a manufacturer's warranty. If any claim is made against warranty, Customers must adhere to the manufacturer's instructions and procedures. Where possible, to resolve warranty issues as quickly as possible, the manufacturer will deal directly with the return. In this instance IT-Dealers will provide direct contact details. This does not affect your statutory rights if you are a consumer.<br /> <br /> <strong>IT-Dealers' Liability</strong><br /> IT-Dealers cannot accept any liability for consequential or indirect damage, for example loss of profit, goodwill or data or other financial loss not related to the price paid for the goods. All losses will be limited to the amount paid for the goods ordered. IT-Dealers ' liability for death or personal injury caused by negligence is not limited by this agreement.<br /> <br /> <strong>The Consumer Protection (Distance Selling) Regulations 2000</strong><br /> Contracts entered into by Customers not acting in the course of a business are subject to The Consumer Protection (Distance Selling) Regulations 2000. Should the Regulations apply, Customers may cancel goods by giving notice in writing within 7 days of the date of delivery of the goods either by post, email or fax to IT-Dealers .<br /> If the Customer exercises the right to cancel under the Regulations, he or she will be responsible for the cost of returning the goods. Alternatively, if the goods are not returned, the Customer has a responsibility to make the goods available for collection from the address to which they were delivered.<br /> The customer is also obliged to retain possession and to take reasonable care of the goods until such time as they are collected. The customer will be liable for any damage to the goods if there is any failure to comply with this obligation.<br /> <strong>Errors and Omissions</strong><br /> Although IT-Dealers makes every effort to be accurate with the goods it represents on the website, it is unavoidable that errors and omissions will occur. Should this instance arise, IT-Dealers will have the right to rescind the contract, even if payment has already been received. IT-Dealers will in this event refund any monies paid by the Customer.<br /> The Customer may either cancel his or her purchase, or in the case of an incorrectly given price, pay the difference between the price given and the correct price.<br /> <br /> <strong>General</strong><br /> No clauses or conditions in this document affect your statutory rights as a consumer.<br /> If there proves to be any clause or condition that is found to be invalid or unenforceable, that item may be struck from the Agreement without any influence on the validity of the remainder of the Agreement. Any such waiver must be in writing and agreed by IT-Dealers. Headings given are for ease of reference and do not affect the interpretation of the Agreement.<br /> Correspondence regarding changes in the Agreement should be exchanged by post, fax or email, although proof of delivery may be required.<br /> All terms and conditions contained in this Agreement will be subject to the jurisdiction of the US courts. IT-Dealers reserves the right to amend the terms and condition contained in the Agreement at any time.</p>
+<br /><br /></div>
+<span style="display: table; margin: 10px auto;"> <strong>I have read and agree to the credit agreement</strong> <input name="chkterms" type="checkbox" /> </span></div>
+<center><input type="submit" name="submit" value="Apply" /></center></div>
+</form>

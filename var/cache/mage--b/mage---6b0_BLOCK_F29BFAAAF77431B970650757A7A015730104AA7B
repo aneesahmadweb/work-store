@@ -1,0 +1,365 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1500046295;s:6:"expire";i:1500132695;s:4:"tags";s:49:"6b0_VES_PAGEBUILDER_BLOCK,6b0_BLOCK_HTML,6b0_MAGE";}
+<div class="block vesbuilder-block  ">
+		<div class="block-content">
+		<div id="ves-blockbuilder50451500046294" class="">
+ 				    	    		    	
+	        <div class="ves-container   "   style="background-color:#f8f8f8;padding:60px 0 0">
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="block blog-posts ">
+		<div class="block-title">
+		<strong>From the blog</strong>
+	</div>
+			<div class="block-content">
+				<ul id="block15000462953515" class="owl-carousel owl-theme">
+						<li class="ves-post post-item">
+
+																<div class="post-block" style="400px">
+										<div class="post-image">
+						<a href="http://localhost/test-store/blog/best-practice1/le-creuset-introduces-new-ecommerce-experience.html" title="Le Creuset Introduces New Ecommerce">
+														<img class="img-responsive" src="http://localhost/test-store/pub/media/resized/372x252/ves/blog/blog_img1.jpg" alt="Le Creuset Introduces New Ecommerce"/>
+													</a>
+					</div>
+										<div class="post-meta">
+						
+												<div class="post-title">
+							<h3><a href="http://localhost/test-store/blog/best-practice1/le-creuset-introduces-new-ecommerce-experience.html" title="Le Creuset Introduces New Ecommerce">Le Creuset Introduces New Ecommerce</a></h3>
+						</div>
+						
+												<div class="post-summary">
+							<div class="desc">
+														That piece of Le Creuset cookware was also the foundation of my cooking lessons. I...
+															<a class="read-more" href="http://localhost/test-store/blog/best-practice1/le-creuset-introduces-new-ecommerce-experience.html" title="Le Creuset Introduces New Ecommerce">Read more</a>
+														</div>	
+						</div>
+						
+																		
+					</div>
+
+					<div class="post-bottom">
+																					<div class="post-date">
+																								<span>Feb 4, 2016</span>
+																							</div>
+																					<div class="post-comment">
+								3 comments							</div>
+														
+													</div>
+						
+				</div>
+				
+			</li>
+						<li class="ves-post post-item">
+
+																<div class="post-block" style="400px">
+										<div class="post-image">
+						<a href="http://localhost/test-store/blog/customer-stories/look-magento-2-trained-solution.html" title="Look for Magento 2 Trained Solution">
+														<img class="img-responsive" src="http://localhost/test-store/pub/media/resized/372x252/ves/blog/blog_img2.jpg" alt="Look for Magento 2 Trained Solution"/>
+													</a>
+					</div>
+										<div class="post-meta">
+						
+												<div class="post-title">
+							<h3><a href="http://localhost/test-store/blog/customer-stories/look-magento-2-trained-solution.html" title="Look for Magento 2 Trained Solution">Look for Magento 2 Trained Solution</a></h3>
+						</div>
+						
+												<div class="post-summary">
+							<div class="desc">
+														There are many Magento 2 Trained Solution Partners ready to take on your next...
+															<a class="read-more" href="http://localhost/test-store/blog/customer-stories/look-magento-2-trained-solution.html" title="Look for Magento 2 Trained Solution">Read more</a>
+														</div>	
+						</div>
+						
+																		
+					</div>
+
+					<div class="post-bottom">
+																					<div class="post-date">
+																								<span>Feb 4, 2016</span>
+																							</div>
+																					<div class="post-comment">
+								1 comments							</div>
+														
+													</div>
+						
+				</div>
+				
+			</li>
+						<li class="ves-post post-item">
+
+																<div class="post-block" style="400px">
+										<div class="post-image">
+						<a href="http://localhost/test-store/blog/technical/new-era-commerce-innovation.html" title="A New Era of Commerce Innovation">
+														<img class="img-responsive" src="http://localhost/test-store/pub/media/resized/372x252/ves/blog/blog_img3.jpg" alt="A New Era of Commerce Innovation"/>
+													</a>
+					</div>
+										<div class="post-meta">
+						
+												<div class="post-title">
+							<h3><a href="http://localhost/test-store/blog/technical/new-era-commerce-innovation.html" title="A New Era of Commerce Innovation">A New Era of Commerce Innovation</a></h3>
+						</div>
+						
+												<div class="post-summary">
+							<div class="desc">
+														Today we announced the general availability of our next generation open source...
+															<a class="read-more" href="http://localhost/test-store/blog/technical/new-era-commerce-innovation.html" title="A New Era of Commerce Innovation">Read more</a>
+														</div>	
+						</div>
+						
+																		
+					</div>
+
+					<div class="post-bottom">
+																					<div class="post-date">
+																								<span>Feb 4, 2016</span>
+																							</div>
+																					<div class="post-comment">
+								0 comments							</div>
+														
+													</div>
+						
+				</div>
+				
+			</li>
+						<li class="ves-post post-item">
+
+																<div class="post-block" style="400px">
+										<div class="post-image">
+						<a href="http://localhost/test-store/blog/events/revealed-magento-mountaineer.html" title="Revealed: The Magento Mountaineer">
+														<img class="img-responsive" src="http://localhost/test-store/pub/media/resized/372x252/ves/blog/blog_img4.jpg" alt="Revealed: The Magento Mountaineer"/>
+													</a>
+					</div>
+										<div class="post-meta">
+						
+												<div class="post-title">
+							<h3><a href="http://localhost/test-store/blog/events/revealed-magento-mountaineer.html" title="Revealed: The Magento Mountaineer">Revealed: The Magento Mountaineer</a></h3>
+						</div>
+						
+												<div class="post-summary">
+							<div class="desc">
+														The epic, snow-topped Caucasus Mountains are some of the tallest and most perilous...
+															<a class="read-more" href="http://localhost/test-store/blog/events/revealed-magento-mountaineer.html" title="Revealed: The Magento Mountaineer">Read more</a>
+														</div>	
+						</div>
+						
+																		
+					</div>
+
+					<div class="post-bottom">
+																					<div class="post-date">
+																								<span>Feb 4, 2016</span>
+																							</div>
+																					<div class="post-comment">
+								0 comments							</div>
+														
+													</div>
+						
+				</div>
+				
+			</li>
+						<li class="ves-post post-item">
+
+																<div class="post-block" style="400px">
+										<div class="post-image">
+						<a href="http://localhost/test-store/blog/magento-news/retain-your-holiday-shoppers-2016.html" title="Retain Your Holiday Shoppers in 2016">
+														<img class="img-responsive" src="http://localhost/test-store/pub/media/resized/372x252/ves/blog/blog_img5.jpg" alt="Retain Your Holiday Shoppers in 2016"/>
+													</a>
+					</div>
+										<div class="post-meta">
+						
+												<div class="post-title">
+							<h3><a href="http://localhost/test-store/blog/magento-news/retain-your-holiday-shoppers-2016.html" title="Retain Your Holiday Shoppers in 2016">Retain Your Holiday Shoppers in 2016</a></h3>
+						</div>
+						
+												<div class="post-summary">
+							<div class="desc">
+														Q4 is in full swing, but while you might not have even gotten around to dusting off...
+															<a class="read-more" href="http://localhost/test-store/blog/magento-news/retain-your-holiday-shoppers-2016.html" title="Retain Your Holiday Shoppers in 2016">Read more</a>
+														</div>	
+						</div>
+						
+																		
+					</div>
+
+					<div class="post-bottom">
+																					<div class="post-date">
+																								<span>Feb 4, 2016</span>
+																							</div>
+																					<div class="post-comment">
+								0 comments							</div>
+														
+													</div>
+						
+				</div>
+				
+			</li>
+						<li class="ves-post post-item">
+
+																<div class="post-block" style="400px">
+										<div class="post-image">
+						<a href="http://localhost/test-store/blog/magento-news/magentolive-australia-2015-wraps-sydney.html" title="MagentoLive Australia 2015 Wrasps Up in Sydneys">
+														<img class="img-responsive" src="http://localhost/test-store/pub/media/resized/372x252/ves/blog/blog_img6.jpg" alt="MagentoLive Australia 2015 Wrasps Up in Sydneys"/>
+													</a>
+					</div>
+										<div class="post-meta">
+						
+												<div class="post-title">
+							<h3><a href="http://localhost/test-store/blog/magento-news/magentolive-australia-2015-wraps-sydney.html" title="MagentoLive Australia 2015 Wrasps Up in Sydneys">MagentoLive Australia 2015 Wrasps Up in Sydneys</a></h3>
+						</div>
+						
+												<div class="post-summary">
+							<div class="desc">
+														As you may know, magento 2 comes with a number of amazing features and improvements....
+															<a class="read-more" href="http://localhost/test-store/blog/magento-news/magentolive-australia-2015-wraps-sydney.html" title="MagentoLive Australia 2015 Wrasps Up in Sydneys">Read more</a>
+														</div>	
+						</div>
+						
+																		
+					</div>
+
+					<div class="post-bottom">
+																					<div class="post-date">
+																								<span>Feb 4, 2016</span>
+																							</div>
+																					<div class="post-comment">
+								0 comments							</div>
+														
+													</div>
+						
+				</div>
+				
+			</li>
+						<li class="ves-post post-item">
+
+																<div class="post-block" style="400px">
+										<div class="post-image">
+						<a href="http://localhost/test-store/blog/best-practice1/saving-and-reverting-positions-visual.html" title="Saving and Reverting Positions with Visual">
+														<img class="img-responsive" src="http://localhost/test-store/pub/media/resized/372x252/ves/blog/blog_img7.jpg" alt="Saving and Reverting Positions with Visual"/>
+													</a>
+					</div>
+										<div class="post-meta">
+						
+												<div class="post-title">
+							<h3><a href="http://localhost/test-store/blog/best-practice1/saving-and-reverting-positions-visual.html" title="Saving and Reverting Positions with Visual">Saving and Reverting Positions with Visual</a></h3>
+						</div>
+						
+												<div class="post-summary">
+							<div class="desc">
+														As magento 2 road map and their commitment, the official version is going to be...
+															<a class="read-more" href="http://localhost/test-store/blog/best-practice1/saving-and-reverting-positions-visual.html" title="Saving and Reverting Positions with Visual">Read more</a>
+														</div>	
+						</div>
+						
+																		
+					</div>
+
+					<div class="post-bottom">
+																					<div class="post-date">
+																								<span>Feb 4, 2016</span>
+																							</div>
+																					<div class="post-comment">
+								0 comments							</div>
+														
+													</div>
+						
+				</div>
+				
+			</li>
+						<li class="ves-post post-item">
+
+																<div class="post-block" style="400px">
+										<div class="post-image">
+						<a href="http://localhost/test-store/blog/customer-stories/magento-commerce-portfolio-magento-20-overview.html" title="Magento Commerce Portfolio & Magento 2.0 Overview">
+														<img class="img-responsive" src="http://localhost/test-store/pub/media/resized/372x252/ves/blog/blog_img8.jpg" alt="Magento Commerce Portfolio & Magento 2.0 Overview"/>
+													</a>
+					</div>
+										<div class="post-meta">
+						
+												<div class="post-title">
+							<h3><a href="http://localhost/test-store/blog/customer-stories/magento-commerce-portfolio-magento-20-overview.html" title="Magento Commerce Portfolio & Magento 2.0 Overview">Magento Commerce Portfolio & Magento 2.0 Overview</a></h3>
+						</div>
+						
+												<div class="post-summary">
+							<div class="desc">
+														Magento announced the release of its next-generation digital commerce platform,...
+															<a class="read-more" href="http://localhost/test-store/blog/customer-stories/magento-commerce-portfolio-magento-20-overview.html" title="Magento Commerce Portfolio & Magento 2.0 Overview">Read more</a>
+														</div>	
+						</div>
+						
+																		
+					</div>
+
+					<div class="post-bottom">
+																					<div class="post-date">
+																								<span>Feb 4, 2016</span>
+																							</div>
+																					<div class="post-comment">
+								0 comments							</div>
+														
+													</div>
+						
+				</div>
+				
+			</li>
+					</ul>
+		
+
+				<script>
+			require([
+				'jquery',
+								"Ves_All/lib/owl.carousel/owl.carousel.min",
+								], function(){
+					jQuery(document).ready(function() {
+						var owl = jQuery('#block15000462953515');
+						owl.owlCarousel({
+							rtl: false,
+							loop:false,
+							nav:true,
+							dots:false,
+							navText: [ "<i class='fa fa-caret-left'></i>", "<i class='fa fa-caret-right'></i>" ],
+															responsive:{
+									0 : { items: 1},
+									480 : {items: 2},
+									640 : {items: 2},
+									768 : {items: 3},
+									980 : {items: 3},
+									1200 : {items: 3},
+								},
+								onInitialized: function(){
+																		}
+								});
+
+					});
+				});
+			</script>
+			
+					</div>
+	</div>			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        				</div>
+		    </div>
+		    </div>
+		    	    
+	 	  	</div>
+	</div>
+</div>

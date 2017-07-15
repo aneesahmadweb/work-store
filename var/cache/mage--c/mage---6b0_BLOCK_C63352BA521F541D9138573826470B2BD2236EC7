@@ -1,0 +1,335 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1500046306;s:6:"expire";i:1500132706;s:4:"tags";s:49:"6b0_VES_PAGEBUILDER_BLOCK,6b0_BLOCK_HTML,6b0_MAGE";}
+<div class="block vesbuilder-block  blackstore-footer footer1">
+		<div class="block-content">
+		<div id="ves-blockbuilder247031500046306" class="blackstore-footer footer1-content">
+ 				    	    		    	
+	        <div class="ves-container   "   style="padding:55px 0">
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="widget-html ves-widget block infom ">
+				<div class="block-title">
+			<span class="opener hidden-lg hidden-md hidden-sm" data-toggle="collapse" data-target="#widget-html42451500046306"><i class="fa fa-angle-down"></i></span>			<strong><span>Contact Details</span></strong>
+		</div>
+				<div id="widget-html42451500046306" class="widget-inner block-content  widget-enable-collapse collapse in ">
+			<p style="margin-bottom: 15px;"><em class="fa fa-map-marker"><em class="hidden">Map</em></em>PO Box 16122 Collins Street West Victoria 8007 Australia</p>
+<p style="margin-bottom: 15px;"><em class="fa fa-phone"><em class="hidden">Phone</em></em>(+123) 456 789 - (+204) 666 888</p>
+<p><em class="fa fa-envelope-o" style="font-size: 16px;"><em class="hidden">Mail</em></em>contact@yourcompany.com</p>		</div>
+	</div>
+
+<script type="text/javascript">
+	require([
+		'jquery'
+				,"Ves_All/lib/bootstrap/js/bootstrap.min"
+				],function($){
+			
+		});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-2 col-md-2 col-sm-4 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-96421500046306">
+	<div class="panel panel-default">
+        
+    	        <div class="panel-heading block-title">
+            <strong><span>
+                Infomation                <a data-toggle="collapse" data-parent="#accordion-links-96421500046306" href="#collapseLinks96421500046306" class="panel-title hidden-lg hidden-md">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </span></strong>
+        </div>
+                
+        <div id="collapseLinks96421500046306" class="block-content panel-collapse collapse in">
+            <div class="panel-body">
+            	<ul class="nav-links " id="myAccordionTab96421500046306">
+									  		<li>
+                                                        <a href="http://localhost/test-store/blackstore-about-us">About us</a></li>
+				  					  		<li>
+                                                        <a href="http://localhost/test-store/privacy-policy-cookie-restriction-mode">Privacy & Policy</a></li>
+				  					  		<li>
+                                                        <a href="http://localhost/test-store/blackstore-delivery-and-payment">Delivery & Payment</a></li>
+				  					  		<li>
+                                                        <a href="#">Our Team</a></li>
+				  					  		<li>
+                                                        <a href="http://localhost/test-store/blackstore-faq">Question?</a></li>
+				  					</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+    require([
+        'jquery'
+                ,"Ves_All/lib/bootstrap/js/bootstrap.min"
+                ],function($){
+            
+        });
+    });
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-2 col-md-2 col-sm-4 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-14351500046306">
+	<div class="panel panel-default">
+        
+    	        <div class="panel-heading block-title">
+            <strong><span>
+                Customer Care                <a data-toggle="collapse" data-parent="#accordion-links-14351500046306" href="#collapseLinks14351500046306" class="panel-title hidden-lg hidden-md">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </span></strong>
+        </div>
+                
+        <div id="collapseLinks14351500046306" class="block-content panel-collapse collapse in">
+            <div class="panel-body">
+            	<ul class="nav-links " id="myAccordionTab14351500046306">
+									  		<li>
+                                                        <a href="http://localhost/test-store/contact">Contact us</a></li>
+				  					  		<li>
+                                                        <a href="http://localhost/test-store/blackstore-delivery-and-payment">Returns</a></li>
+				  					  		<li>
+                                                        <a href="http://localhost/test-store/site-map">Site map</a></li>
+				  					  		<li>
+                                                        <a href="#">Press & media</a></li>
+				  					  		<li>
+                                                        <a href="#">Gift Certificates</a></li>
+				  					</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+    require([
+        'jquery'
+                ,"Ves_All/lib/bootstrap/js/bootstrap.min"
+                ],function($){
+            
+        });
+    });
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-4 col-md-4 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="widget-html ves-widget block  ">
+				<div class="block-title">
+			<span class="opener hidden-lg hidden-md hidden-sm" data-toggle="collapse" data-target="#widget-html197681500046306"><i class="fa fa-angle-down"></i></span>			<strong><span>Get more with urban on</span></strong>
+		</div>
+				<div id="widget-html197681500046306" class="widget-inner block-content  widget-enable-collapse collapse in ">
+			<p style="margin-bottom: 15px;">Lorem ipsum dolor sit amet. Claritas est etiam processus dy namic us, qui sequitur mutat ionem consuetudium lectorum. Nemo enim ipsam voluptatem quia voluptas.</p>
+<ul class="appstore">
+<li><a href="#"><img src="http://localhost/test-store/pub/media/wysiwyg/ves_blackstore/app_store.png" alt="" /></a></li>
+<li><a href="#"><img src="http://localhost/test-store/pub/media/wysiwyg/ves_blackstore/app_store2.png" alt="" /></a></li>
+</ul>		</div>
+	</div>
+
+<script type="text/javascript">
+	require([
+		'jquery'
+				,"Ves_All/lib/bootstrap/js/bootstrap.min"
+				],function($){
+			
+		});
+</script>
+			                    	</div>
+
+			                    			                   					                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="widget-html ves-widget block social ">
+				<div class="block-title">
+						<strong><span>Follow us</span></strong>
+		</div>
+				<div id="widget-html84651500046306" class="widget-inner block-content ">
+			<ul>
+<li class="social-facebook"><a title="Facebook" href="https://www.facebook.com/venustheme"> <em class="fa fa-facebook"><em class="hidden">Facebook</em></em></a></li>
+<li class="social-google"><a title="Google" href="https://plus.google.com/+VenusTheme"> <em class=" fa fa-google-plus"><em class="hidden">Google+</em></em></a></li>
+<li class="social-twitter"><a title="Twitter" href="https://twitter.com/venustheme"> <em class="fa fa-twitter"> <em class="hidden">Twitter</em></em></a></li>
+<li class="social-youtube"><a title="Youtube" href="https://www.youtube.com/user/venustheme"> <em class="fa fa-youtube-play"><em class="hidden">Youtube</em></em></a></li>
+<li class="social-tumblr"><a title="Tumblr" href="#"> <em class="fa fa-tumblr"><em class="hidden">Tumblr</em></em></a></li>
+<li class="social-instagram"><a title="Instagram" href="#"> <em class="fa fa-instagram"><em class="hidden">Instagram</em></em></a></li>
+<li class="social-dribbble"><a title="Dribbble" href="#"> <em class="fa fa-dribbble"><em class="hidden">Dribbble</em></em></a></li>
+<li class="social-pin"><a title="Pinterest" href="#"> <em class="fa fa-pinterest-p"><em class="hidden">Pinterest</em></em></a></li>
+<li class="social-linkedin"><a title="Linkedin" href="#"> <em class="fa fa-linkedin"><em class="hidden">Linkedin</em></em></a></li>
+</ul>		</div>
+	</div>
+
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        				</div>
+		    </div>
+		    </div>
+		    	    
+		    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   footer-prom" >
+	        				    			    			    				
+			    <div class="row row-level-1  row-default" >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="widget-html ves-widget block  ">
+				<div id="widget-html246951500046306" class="widget-inner block-content ">
+			<ul class="logo-pay">
+<li><strong style="color: #222; letter-spacing: 1px;">PRODUCT TAGS:</strong></li>
+<li><a href="http://localhost/test-store/#/">Men</a> -</li>
+<li><a href="http://localhost/test-store/#/">Women</a> -</li>
+<li><a href="http://localhost/test-store/#/">Accessories</a> -</li>
+<li><a href="http://localhost/test-store/#/">Glasses</a> -</li>
+<li><a href="http://localhost/test-store/#/">T-Shirt</a> -</li>
+<li><a href="http://localhost/test-store/#/">Nike</a> -</li>
+<li><a href="http://localhost/test-store/#/">Adidas</a> -</li>
+<li><a href="http://localhost/test-store/#/">Fashion Kids</a> -</li>
+<li><a href="http://localhost/test-store/#/">Brixton</a> -</li>
+<li><a href="http://localhost/test-store/#/">Vintage</a> -</li>
+<li><a href="http://localhost/test-store/#/">Fashion Men</a> -</li>
+<li><a href="http://localhost/test-store/#/">Fashion Women</a>...</li>
+</ul>		</div>
+	</div>
+
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        				</div>
+		    </div>
+		    </div>
+		    	    
+		    	    		    	
+	        <div class="ves-container   "   style="background-color:#141414;padding:12px 0 2px">
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   copyright" >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-6 col-md-6 col-sm-6 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="widget-html ves-widget block  ">
+				<div id="widget-html156931500046306" class="widget-inner block-content ">
+			<p>Copyright 2016 <span>Blackstore</span>. All rights served. Powered by <span>Venustheme</span></p>		</div>
+	</div>
+
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-6 col-md-6 col-sm-6 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="widget-html ves-widget block  ">
+				<div id="widget-html163861500046306" class="widget-inner block-content ">
+			<ul class="logo-pay pull-right">
+<li><a href="http://localhost/test-store/#/"><img src="http://localhost/test-store/pub/media/wysiwyg/ves_blackstore/icon-pay1.png" alt="" /></a></li>
+<li><a href="http://localhost/test-store/#/"><img src="http://localhost/test-store/pub/media/wysiwyg/ves_blackstore/icon-pay2.png" alt="" /></a></li>
+<li><a href="http://localhost/test-store/#/"><img src="http://localhost/test-store/pub/media/wysiwyg/ves_blackstore/icon-pay3.png" alt="" /></a></li>
+<li><a href="http://localhost/test-store/#/"><img src="http://localhost/test-store/pub/media/wysiwyg/ves_blackstore/icon-pay5.png" alt="" /></a></li>
+<li><a href="http://localhost/test-store/#/"><img src="http://localhost/test-store/pub/media/wysiwyg/ves_blackstore/icon-pay6.png" alt="" /></a></li>
+<li><a href="http://localhost/test-store/#/"><img src="http://localhost/test-store/pub/media/wysiwyg/ves_blackstore/icon-pay7.png" alt="" /></a></li>
+</ul>		</div>
+	</div>
+
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        				</div>
+		    </div>
+		    </div>
+		    	    
+	 	  	</div>
+	</div>
+</div>

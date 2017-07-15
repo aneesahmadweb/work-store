@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+
+        <!-- Remove blank/luma theme styling if you declared a parent -->
+        <css src="css/styles.css" />
+        <css src="css/source/test.css" />
+
+       <!-- <css src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" src_type="url" />-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" src_type="url" />
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" src_type="url" />
+
+
+    </head>
+</page>

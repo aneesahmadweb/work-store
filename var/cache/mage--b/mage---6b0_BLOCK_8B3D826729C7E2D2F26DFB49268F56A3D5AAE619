@@ -1,0 +1,127 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1500046287;s:6:"expire";i:1500132687;s:4:"tags";s:49:"6b0_VES_PAGEBUILDER_BLOCK,6b0_BLOCK_HTML,6b0_MAGE";}
+<div class="block vesbuilder-block  ">
+		<div class="block-content">
+		<div id="ves-blockbuilder98311500046287" class="">
+ 				    	    		    	
+	        <div class="ves-container   border-top border-bottom"   style="padding:30px 0 0">
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="block widget ves-widget brand-widget ">
+			<div class="block-content brandowl-play">
+		<ul id="ves-carousel196451500046287" class="owl-carousel"
+			data-rtl="false"
+			data-loop="true"
+			data-nav="true"
+			data-dots="false"
+			data-autoplay="true"
+			data-nav-text-owlnext="<i class='fa fa-angle-right'> </i>"
+			data-nav-text-owlpre="<i class='fa fa-angle-left'> </i>"
+			data-autoplay-timeout="4000"
+			data-pauonhover="false"
+			data-mobile-items="2"
+			data-tablet-small-items="3"
+			data-tablet-items="4"
+			data-portrait-items="4"
+			data-large-items="6"
+			data-large-max-items="6" >
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/megashop.html" title="Megashop"><img src="http://localhost/test-store/pub/media/ves/brand/brand1.png" alt="Megashop"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/floralstore.html" title="FloralStore"><img src="http://localhost/test-store/pub/media/ves/brand/brand2.png" alt="FloralStore"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/sexy-trends.html" title="Sexy Trends"><img src="http://localhost/test-store/pub/media/ves/brand/brand3.png" alt="Sexy Trends"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/clother.html" title="Clother"><img src="http://localhost/test-store/pub/media/ves/brand/brand41.png" alt="Clother"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/boutique.html" title="Boutique"><img src="http://localhost/test-store/pub/media/ves/brand/brand5.png" alt="Boutique"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/one-shop.html" title="One Shop"><img src="http://localhost/test-store/pub/media/ves/brand/brand6.png" alt="One Shop"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/nextstore.html" title="Nextstore"><img src="http://localhost/test-store/pub/media/ves/brand/brand7.png" alt="Nextstore"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/big-shop.html" title="Big Shop"><img src="http://localhost/test-store/pub/media/ves/brand/brand8.png" alt="Big Shop"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/stationery.html" title="Stationery"><img src="http://localhost/test-store/pub/media/ves/brand/brand9.png" alt="Stationery"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/maxx-shop.html" title="Maxx Shop"><img src="http://localhost/test-store/pub/media/ves/brand/brand10.png" alt="Maxx Shop"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/car-market.html" title="Car Market"><img src="http://localhost/test-store/pub/media/ves/brand/brand61.png" alt="Car Market"/></a></div>
+									</div>
+							</li>
+						<li class="item">
+								<div class="brand-item">
+					<div class="brand-image"><a href="http://localhost/test-store/brand/mobile.html" title="Mobile"><img src="http://localhost/test-store/pub/media/ves/brand/brand71.png" alt="Mobile"/></a></div>
+									</div>
+							</li>
+					</ul>
+	</div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+		require(['jquery',
+						"Ves_All/lib/owl.carousel/owl.carousel.min",
+				'Ves_Brand/js/brand'], function () {});
+	});
+});
+</script>			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        				</div>
+		    </div>
+		    </div>
+		    	    
+	 	  	</div>
+	</div>
+</div>

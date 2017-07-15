@@ -1,0 +1,121 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1500046266;s:6:"expire";i:1500132666;s:4:"tags";s:49:"6b0_VES_PAGEBUILDER_BLOCK,6b0_BLOCK_HTML,6b0_MAGE";}
+<div class="block vesbuilder-block  ">
+		<div class="block-content">
+		<div id="ves-blockbuilder28491500046266" class="">
+ 				    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div>
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget widget-carousel owlcarousel block  ">
+            <div id="widget-carousel169481500046266" class="widget-inner block-content ">
+            <div id="owlwidgetcarousel2631500046266" class="owl-carousel">
+                                    <div class="item first">
+                              <h4 class="item-title">Header 1 </h4>                              <div class="item-content">
+                                    <p><a href="http://localhost/test-store/admin/cms/wysiwyg/directive/___directive/e3tzdG9yZSB1cmw9IndvbWVuLmh0bWwifX0,/key/bcd8051262f45e0ff247cfba8421dc45a3703cf7fa603bf391f04f2b624224f6/"><img src="http://localhost/test-store/admin/cms/wysiwyg/directive/___directive/e3ttZWRpYSB1cmw9Ind5c2l3eWcvc2xpZGUxLmpwZyJ9fQ,,/key/bcd8051262f45e0ff247cfba8421dc45a3703cf7fa603bf391f04f2b624224f6/" alt="" width="1920" height="665" /></a></p>
+<div class="slider-content a-center" style="left: 0; right: 0; top: 15%;">
+<h3 style="margin-bottom: 0;">BASIC <span>FASHION</span></h3>
+<h4>DESIGN TEMPLATES</h4>
+<h1>2016</h1>
+<a class="btn hidden-md" href="#">BUY NOW</a></div>                              </div>
+                        </div>
+                                    <div class="item ">
+                              <h4 class="item-title">Header 2 </h4>                              <div class="item-content">
+                                    <p><a href="http://localhost/test-store/women.html/"><img src="http://localhost/test-store/pub/media/wysiwyg/slide2.jpg" width="1920" height="665" /></a></p>
+<div class="slider-content a-center" style="left: 20%; top: 18%;">
+<h3 style="margin-bottom: 0;">Shop with Convenience</h3>
+<h4>DESIGN TEMPLATES</h4>
+<h1>2016</h1>
+<a class="btn hidden-md" href="#">BUY NOW</a></div>                              </div>
+                        </div>
+                                    <div class="item last">
+                              <h4 class="item-title">Header3 </h4>                              <div class="item-content">
+                                    <p><a href="http://localhost/test-store/admin/cms/wysiwyg/directive/___directive/e3tzdG9yZSB1cmw9Im1lbi5odG1sIn19/key/bcd8051262f45e0ff247cfba8421dc45a3703cf7fa603bf391f04f2b624224f6/"><img src="http://localhost/test-store/admin/cms/wysiwyg/directive/___directive/e3ttZWRpYSB1cmw9Ind5c2l3eWcvdmVzX2JsYWNrc3RvcmUvc2xpZGVyMy5qcGcifX0,/key/bcd8051262f45e0ff247cfba8421dc45a3703cf7fa603bf391f04f2b624224f6/" alt="" /></a></p>
+<div class="slider-content" style="left: 20%; top: 18%;">
+<h3 style="margin-bottom: 0;">BASIC <span>FASHION</span></h3>
+<h4>DESIGN TEMPLATES</h4>
+<h1>2016</h1>
+<a class="btn hidden-md" href="#">BUY NOW</a></div>                              </div>
+                        </div>
+                        </div>
+                  </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+            $(document).ready(function(){
+                  require([
+                  'jquery'
+                                     ,"Ves_All/lib/owl.carousel/owl.carousel.min"
+                                    ],function($){
+                      var widgetowlcarousel = jQuery('#owlwidgetcarousel2631500046266');
+                          widgetowlcarousel.owlCarousel({
+                              autoplay: true,
+                                                            autoplaySpeed: 1000,
+                                                            autoplayTimeout: 5000,
+                                                            animateIn: "fadeIn",
+                                                                                          animateOut: "fadeOut",
+                                                            autoplayHoverPause: true,
+                              nav: true,
+                                                            navText: ["<span class='fa fa-angle-left'>Pre</span>","<span class='fa fa-angle-right'>Next</span>"],
+                                                            autoWidth: false,
+                              autoHeight: false,
+                              slideBy: 1,
+                              loop: true,
+                              margin: 0,
+                              navSpeed:  false,
+                              dots: true,
+                              dotsSpeed: 800,
+                              mouseDrag: true,
+                              touchDrag: true,
+                              pullDrag: false,
+                              lazyLoad: false,
+                                                            items: 1,
+                              responsive: {
+                                    0:{
+                                          items:1
+                                    },
+                                    600:{
+                                          items:1
+                                    },
+                                    1000:{
+                                          items:1
+                                    }
+                              },
+                                                            singleItem: true                          });
+
+                            
+                  });
+            })
+      });
+</script>
+
+
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        				</div>
+		    </div>
+		    </div>
+		    	    
+	 	  	</div>
+	</div>
+</div>

@@ -1,0 +1,112 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1500046287;s:6:"expire";i:1500132687;s:4:"tags";s:49:"6b0_VES_PAGEBUILDER_BLOCK,6b0_BLOCK_HTML,6b0_MAGE";}
+<div class="block vesbuilder-block  ">
+		<div class="block-content">
+		<div id="ves-blockbuilder325201500046287" class="">
+ 				    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div id="productlist-1981500046287" class="block widget ves-widget productlist-widget productlist-easytab-play ">
+        <div class="block-title">
+        <strong>Our Products</strong>
+    </div>
+                <div id="easytab-1981500046287" class="block-content"
+        data-animate="false"
+        data-animation-speed="0"
+        data-collapsible="false"
+        data-cycle="false"                data-transition-in="fadeIn"        data-transition-in-easing="swing"        data-transition-out="fadeOut"        data-transition-out-easing="swing"        data-event="click"
+        >
+        <ul class="etabs">
+                        <li class="nav-item tab " id="tab-productlist-24-226631500046287"><a href="#productlist-24-226631500046287">Hoodies</a></li>
+                        <li class="nav-item tab " id="tab-productlist-25-9481500046287"><a href="#productlist-25-9481500046287">Tees</a></li>
+                        <li class="nav-item tab " id="tab-productlist-26-71331500046287"><a href="#productlist-26-71331500046287">Bras & Tanks</a></li>
+                    </ul>
+        <div class="tab-content productlist-owlcarousel-play"
+        id="productlist-carousel-1981500046287"
+        data-nav="false"
+        data-dot="false"
+        data-autoplay="false"
+        data-autoplay-timeout="3000"
+        data-mobile-items="1"
+        data-tablet-small-items="2"
+        data-tablet-items="2"
+        data-portrait-items="3"
+        data-large-items="4"
+        data-large-max-items="4"
+        data-rtl="false"
+        data-loop="false"
+        data-nav-text-owlpre=""
+        data-nav-text-owlnext=""
+                >
+                <div id="productlist-24-226631500046287" class="ves-products-grid grid  single-line-name ">
+                        <div class="owl-carousel product-items">
+                                </div>
+
+                            
+        </div>
+                <div id="productlist-25-9481500046287" class="ves-products-grid grid  single-line-name ">
+                        <div class="owl-carousel product-items">
+                                </div>
+
+                            
+        </div>
+                <div id="productlist-26-71331500046287" class="ves-products-grid grid  single-line-name ">
+                        <div class="owl-carousel product-items">
+                                </div>
+
+                            
+        </div>
+            </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+   $(document).ready(function(){
+    require([
+        'jquery',
+        'Ves_Productlist/js/productlist',
+        ], function ($, productlist) {
+            var vesProductList = $('#productlist-1981500046287').productlist().data('ves-productlist');
+            var ajaxUrl = "http://localhost/test-store/productlist/index/categoryProducts/";
+            vesProductList.easyTabInit("#easytab-1981500046287").bind("easytabs:before",function(e, $clicked, $targetPanel, settings) {
+                jQuery($targetPanel.selector).addClass("paneltab");
+                vesProductList.equalHeight($targetPanel.selector);
+            }).bind("easytabs:after",function(e, $clicked, $targetPanel, settings) {
+                jQuery($targetPanel.selector).removeClass("paneltab");
+            });
+                                                                                                                                    vesProductList.ajaxClickProduct({"type":"Ves\\Productlist\\Block\\Widget\\CategoryTab","widget_title":"Our Products","productsource":"latest","cycle":"false","transition_in":"fadeIn","transition_in_easing":"swing","transition_out":"fadeOut","transition_out_easing":"swing","event":"click","show_name":"1","show_price":"1","show_review":"1","show_new_label":"1","show_sale_label":"1","show_image":"1","image_width":"360","image_height":"467","alt_image":"1","alt_image_column":"position","alt_image_column_value":"2","show_compare":"1","compare_format_type":"icon","compare_format_text":"Compare","compare_format_class":"fa fa-signal","show_wishlist":"1","wishlist_format_type":"icon","wishlist_format_text":"Wishlist","wishlist_format_class":"fa fa-heart-o","show_addtocart":"1","addtocart_popup_width":null,"addtocart_popup_height":null,"addtocart_format_type":"text","addtocart_format_text":"Add to cart","addtocart_format_class":"zmdi zmdi-shopping-cart-plus","show_quickview":"1","quickview_popup_width":"950","quickview_popup_height":"700","quickview_format_type":"icon","quickview_format_text":"Quick view","quickview_format_class":"fa fa-search","layout_type":"owl_carousel","number_item":"16","number_item_perpage":"8","lg_column_item":"1","md_column_item":"1","sm_column_item":"1","xs_column_item":"1","number_item_percolumn":"2","custom_item_height":"400px","large_max_items":"4","large_items":"4","portrait_items":"3","tablet_items":"3","tablet_small_items":"2","mobile_items":"1","module_name":"Ves_Productlist","show_name_single_line":"1","show_short_description":"0","short_max_char":"100","show_learnmore":"1","show_countdowntimer":"0","aspect_ratio":"0","ajaxBlockId":"productlist-carousel-1981500046287","tab":{"category_id":"24","item_title":"Hoodies","item_class":"","ajax_type":"2","position":"2","id":"productlist-24-226631500046287"}}, ajaxUrl);
+                                                                                                                                                                    vesProductList.ajaxClickProduct({"type":"Ves\\Productlist\\Block\\Widget\\CategoryTab","widget_title":"Our Products","productsource":"latest","cycle":"false","transition_in":"fadeIn","transition_in_easing":"swing","transition_out":"fadeOut","transition_out_easing":"swing","event":"click","show_name":"1","show_price":"1","show_review":"1","show_new_label":"1","show_sale_label":"1","show_image":"1","image_width":"360","image_height":"467","alt_image":"1","alt_image_column":"position","alt_image_column_value":"2","show_compare":"1","compare_format_type":"icon","compare_format_text":"Compare","compare_format_class":"fa fa-signal","show_wishlist":"1","wishlist_format_type":"icon","wishlist_format_text":"Wishlist","wishlist_format_class":"fa fa-heart-o","show_addtocart":"1","addtocart_popup_width":null,"addtocart_popup_height":null,"addtocart_format_type":"text","addtocart_format_text":"Add to cart","addtocart_format_class":"zmdi zmdi-shopping-cart-plus","show_quickview":"1","quickview_popup_width":"950","quickview_popup_height":"700","quickview_format_type":"icon","quickview_format_text":"Quick view","quickview_format_class":"fa fa-search","layout_type":"owl_carousel","number_item":"16","number_item_perpage":"8","lg_column_item":"1","md_column_item":"1","sm_column_item":"1","xs_column_item":"1","number_item_percolumn":"2","custom_item_height":"400px","large_max_items":"4","large_items":"4","portrait_items":"3","tablet_items":"3","tablet_small_items":"2","mobile_items":"1","module_name":"Ves_Productlist","show_name_single_line":"1","show_short_description":"0","short_max_char":"100","show_learnmore":"1","show_countdowntimer":"0","aspect_ratio":"0","ajaxBlockId":"productlist-carousel-1981500046287","tab":{"category_id":"25","item_title":"Tees","item_class":"","ajax_type":"2","position":"3","id":"productlist-25-9481500046287"}}, ajaxUrl);
+                                                                                                                                                                    vesProductList.ajaxClickProduct({"type":"Ves\\Productlist\\Block\\Widget\\CategoryTab","widget_title":"Our Products","productsource":"latest","cycle":"false","transition_in":"fadeIn","transition_in_easing":"swing","transition_out":"fadeOut","transition_out_easing":"swing","event":"click","show_name":"1","show_price":"1","show_review":"1","show_new_label":"1","show_sale_label":"1","show_image":"1","image_width":"360","image_height":"467","alt_image":"1","alt_image_column":"position","alt_image_column_value":"2","show_compare":"1","compare_format_type":"icon","compare_format_text":"Compare","compare_format_class":"fa fa-signal","show_wishlist":"1","wishlist_format_type":"icon","wishlist_format_text":"Wishlist","wishlist_format_class":"fa fa-heart-o","show_addtocart":"1","addtocart_popup_width":null,"addtocart_popup_height":null,"addtocart_format_type":"text","addtocart_format_text":"Add to cart","addtocart_format_class":"zmdi zmdi-shopping-cart-plus","show_quickview":"1","quickview_popup_width":"950","quickview_popup_height":"700","quickview_format_type":"icon","quickview_format_text":"Quick view","quickview_format_class":"fa fa-search","layout_type":"owl_carousel","number_item":"16","number_item_perpage":"8","lg_column_item":"1","md_column_item":"1","sm_column_item":"1","xs_column_item":"1","number_item_percolumn":"2","custom_item_height":"400px","large_max_items":"4","large_items":"4","portrait_items":"3","tablet_items":"3","tablet_small_items":"2","mobile_items":"1","module_name":"Ves_Productlist","show_name_single_line":"1","show_short_description":"0","short_max_char":"100","show_learnmore":"1","show_countdowntimer":"0","aspect_ratio":"0","ajaxBlockId":"productlist-carousel-1981500046287","tab":{"category_id":"26","item_title":"Bras & Tanks","item_class":"","ajax_type":"2","position":"4","id":"productlist-26-71331500046287"}}, ajaxUrl);
+                                                                });
+    });
+});
+</script>
+</div>			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        				</div>
+		    </div>
+		    </div>
+		    	    
+	 	  	</div>
+	</div>
+</div>

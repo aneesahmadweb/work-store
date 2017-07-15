@@ -1,0 +1,1378 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1500046294;s:6:"expire";i:1500132694;s:4:"tags";s:49:"6b0_VES_PAGEBUILDER_BLOCK,6b0_BLOCK_HTML,6b0_MAGE";}
+<div class="block vesbuilder-block  ">
+		<div class="block-content">
+		<div id="ves-blockbuilder20461500046287" class="">
+ 				    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div class="container">
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-6 col-md-6 col-sm-6 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<!-- a -->
+<div id="productlist-106681500046287" class="block widget ves-widget productlist-widget productlist-easytab-play product-style1 hidden-tabs">
+        <div class="block-title">
+        <strong>Featured</strong>
+    </div>
+        
+    
+        <div id="easytab-106681500046287" class="block-content"
+        data-animate="true"
+        data-animation-speed="0"
+        data-collapsible="false"
+        data-cycle="false"                data-transition-in="fadeIn"        data-transition-in-easing="swing"        data-transition-out="fadeOut"        data-transition-out-easing="swing"        data-event="click"
+        >
+        <ul class="etabs">
+                        <li class="nav-item tab " id="tab-productlist-featured-221331500046288"><a href="#productlist-featured-221331500046288"></a></li>
+                    </ul>
+        <div class="tab-content productlist-owlcarousel-play"
+        id="productlist-owlcarousel-106681500046287"
+        data-nav="true"
+        data-dot="false"
+        data-autoplay="false"
+        data-autoplay-timeout="3000"
+        data-mobile-items="1"
+        data-tablet-small-items="2"
+        data-tablet-items="2"
+        data-portrait-items="1"
+        data-large-items="2"
+        data-large-max-items="2"
+        data-rtl="false"
+        data-loop="false"
+        data-nav-text-owlpre="<i class='fa fa-caret-left'> </i>"
+        data-nav-text-owlnext="<i class='fa fa-caret-right'> </i>"
+                >
+                <div id="productlist-featured-221331500046288" class="ves-products-grid grid  single-line-name ">
+                        <div class="owl-carousel product-items">
+                                                        
+<div class="product-block">
+            <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/push-it-messenger-bag.html" title="Push It Messenger Bag" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/b/wb04-blue-0.jpg" alt="Push It Messenger Bag" />
+            </a>
+                                                                                </div>
+        
+                                <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004628828283" title="Push It Messenger Bag" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/14/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/push-it-messenger-bag.html">Push It Messenger Bag</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="14">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$45.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="67%">
+            <span style="width:67%"><span>67%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/push-it-messenger-bag.html#reviews">3&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/14/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="14">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzE0Lw,,">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"14","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"14","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                    
+    </div>
+        
+</div>
+</div>
+<div class="product-block">
+            <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/strive-shoulder-pack.html" title="Strive Shoulder Pack" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/m/b/mb04-black-0.jpg" alt="Strive Shoulder Pack" />
+            </a>
+                                                            <a href="http://localhost/test-store/strive-shoulder-pack.html" title="Strive Shoulder Pack" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/m/b/mb04-black-0_alt1.jpg" alt="Strive Shoulder Pack" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004628827746" title="Strive Shoulder Pack" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/2/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/strive-shoulder-pack.html">Strive Shoulder Pack</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="2">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="32"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$32.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="90%">
+            <span style="width:90%"><span>90%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/strive-shoulder-pack.html#reviews">2&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/2/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="2">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzIv">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"2","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"2","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                    
+    </div>
+        
+</div>
+</div>
+                                    </div>
+
+                            
+        </div>
+            </div>
+</div>
+
+
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+        require([
+            'jquery',
+            'Ves_Productlist/js/productlist',
+        ], function ($, productlist) {
+    		var vesProductList = $('#productlist-106681500046287').productlist().data('ves-productlist');
+                var ajaxUrl = "http://localhost/test-store/productlist/index/product/";
+                vesProductList.easyTabInit("#easytab-106681500046287").bind("easytabs:before",function(e, $clicked, $targetPanel, settings) {
+                    jQuery($targetPanel.selector).addClass("paneltab");
+                    vesProductList.equalHeight($targetPanel.selector);
+                }).bind("easytabs:after",function(e, $clicked, $targetPanel, settings) {
+                    jQuery($targetPanel.selector).removeClass("paneltab");
+                });
+                                                                            vesProductList.owlCarouselInit("#productlist-owlcarousel-106681500046287", "#productlist-featured-221331500046288 .owl-carousel", "");
+                                                                                                                                                });
+    });
+});
+</script>
+</div>			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-6 col-md-6 col-sm-6 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<!-- a -->
+<div id="productlist-181491500046288" class="block widget ves-widget productlist-widget productlist-easytab-play product-style1 hidden-tabs">
+        <div class="block-title">
+        <strong>Bestsellers</strong>
+    </div>
+        
+    
+        <div id="easytab-181491500046288" class="block-content"
+        data-animate="true"
+        data-animation-speed="0"
+        data-collapsible="false"
+        data-cycle="false"                data-transition-in="fadeIn"        data-transition-in-easing="swing"        data-transition-out="fadeOut"        data-transition-out-easing="swing"        data-event="click"
+        >
+        <ul class="etabs">
+                        <li class="nav-item tab " id="tab-productlist-random-96581500046289"><a href="#productlist-random-96581500046289"></a></li>
+                    </ul>
+        <div class="tab-content productlist-owlcarousel-play"
+        id="productlist-owlcarousel-181491500046288"
+        data-nav="true"
+        data-dot="false"
+        data-autoplay="false"
+        data-autoplay-timeout="3000"
+        data-mobile-items="1"
+        data-tablet-small-items="2"
+        data-tablet-items="2"
+        data-portrait-items="1"
+        data-large-items="2"
+        data-large-max-items="2"
+        data-rtl="false"
+        data-loop="false"
+        data-nav-text-owlpre="<i class='fa fa-caret-left'> </i>"
+        data-nav-text-owlnext="<i class='fa fa-caret-right'> </i>"
+                >
+                <div id="productlist-random-96581500046289" class="ves-products-grid grid  single-line-name ">
+                        <div class="owl-carousel product-items">
+                                                        
+<div class="product-block">
+            <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/tristan-endurance-tank.html" title="Tristan Endurance Tank" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/m/t/mt02-white_main.jpg" alt="Tristan Endurance Tank" />
+            </a>
+                                                            <a href="http://localhost/test-store/tristan-endurance-tank.html" title="Tristan Endurance Tank" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/m/t/mt02-white_alt1.jpg" alt="Tristan Endurance Tank" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004628929640" title="Tristan Endurance Tank" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/659/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/tristan-endurance-tank.html">Tristan Endurance Tank</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="659">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="29"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$29.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="80%">
+            <span style="width:80%"><span>80%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/tristan-endurance-tank.html#reviews">3&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/659/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="659">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzY1OS8,">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"659","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"659","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+        <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/electra-bra-top.html" title="Electra Bra Top" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/b/wb01-gray_main.jpg" alt="Electra Bra Top" />
+            </a>
+                                                            <a href="http://localhost/test-store/electra-bra-top.html" title="Electra Bra Top" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/b/wb01-gray_alt1.jpg" alt="Electra Bra Top" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004628914902" title="Electra Bra Top" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/1609/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/electra-bra-top.html">Electra Bra Top</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1609">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="39"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$39.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="75%">
+            <span style="width:75%"><span>75%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/electra-bra-top.html#reviews">4&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/1609/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="1609">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzE2MDkv">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"1609","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"1609","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+</div>
+<div class="product-block">
+            <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/autumn-pullie.html" title="Autumn Pullie" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/h/wh03-red_main.jpg" alt="Autumn Pullie" />
+            </a>
+                                                            <a href="http://localhost/test-store/autumn-pullie.html" title="Autumn Pullie" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/h/wh03-red_alt1.jpg" alt="Autumn Pullie" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004629019668" title="Autumn Pullie" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/1081/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/autumn-pullie.html">Autumn Pullie</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1081">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="57"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$57.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="60%">
+            <span style="width:60%"><span>60%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/autumn-pullie.html#reviews">3&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/1081/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="1081">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzEwODEv">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"1081","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"1081","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+        <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/aim-analog-watch.html" title="Aim Analog Watch" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/m/g/mg04-bk-0.jpg" alt="Aim Analog Watch" />
+            </a>
+                                                                                </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004629119234" title="Aim Analog Watch" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/36/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/aim-analog-watch.html">Aim Analog Watch</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="36">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$45.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="80%">
+            <span style="width:80%"><span>80%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/aim-analog-watch.html#reviews">2&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/36/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="36">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzM2Lw,,">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"36","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"36","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+</div>
+<div class="product-block">
+            <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/daphne-full-zip-hoodie.html" title="Daphne Full-Zip Hoodie" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/h/wh06-purple_main.jpg" alt="Daphne Full-Zip Hoodie" />
+            </a>
+                                                            <a href="http://localhost/test-store/daphne-full-zip-hoodie.html" title="Daphne Full-Zip Hoodie" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/h/wh06-purple_alt1.jpg" alt="Daphne Full-Zip Hoodie" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004629116028" title="Daphne Full-Zip Hoodie" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/1119/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/daphne-full-zip-hoodie.html">Daphne Full-Zip Hoodie</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1119">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="59"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$59.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="80%">
+            <span style="width:80%"><span>80%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/daphne-full-zip-hoodie.html#reviews">2&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/1119/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="1119">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzExMTkv">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"1119","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"1119","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+        <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/fiona-fitness-short.html" title="Fiona Fitness Short" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/s/wsh01-black_main.jpg" alt="Fiona Fitness Short" />
+            </a>
+                                                            <a href="http://localhost/test-store/fiona-fitness-short.html" title="Fiona Fitness Short" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/s/wsh01-black_back.jpg" alt="Fiona Fitness Short" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-15000462916186" title="Fiona Fitness Short" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/1924/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/fiona-fitness-short.html">Fiona Fitness Short</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1924">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="29"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$29.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="60%">
+            <span style="width:60%"><span>60%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/fiona-fitness-short.html#reviews">3&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/1924/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="1924">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzE5MjQv">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"1924","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"1924","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+</div>
+<div class="product-block">
+            <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/aero-daily-fitness-tee.html" title="Aero Daily Fitness Tee" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/m/s/ms01-blue_main.jpg" alt="Aero Daily Fitness Tee" />
+            </a>
+                                                            <a href="http://localhost/test-store/aero-daily-fitness-tee.html" title="Aero Daily Fitness Tee" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/m/s/ms01-blue_back.jpg" alt="Aero Daily Fitness Tee" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-15000462912792" title="Aero Daily Fitness Tee" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/563/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/aero-daily-fitness-tee.html">Aero Daily Fitness Tee</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="563">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="24"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$24.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="80%">
+            <span style="width:80%"><span>80%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/aero-daily-fitness-tee.html#reviews">3&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/563/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="563">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzU2My8,">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"563","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"563","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+        <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/bess-yoga-short.html" title="Bess Yoga Short" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/s/wsh05-blue_main.jpg" alt="Bess Yoga Short" />
+            </a>
+                                                            <a href="http://localhost/test-store/bess-yoga-short.html" title="Bess Yoga Short" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/s/wsh05-blue_back.jpg" alt="Bess Yoga Short" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004629315958" title="Bess Yoga Short" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/1988/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/bess-yoga-short.html">Bess Yoga Short</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1988">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="28"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$28.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="73%">
+            <span style="width:73%"><span>73%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/bess-yoga-short.html#reviews">3&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/1988/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="1988">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzE5ODgv">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"1988","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"1988","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+</div>
+<div class="product-block">
+            <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/carina-basic-capri.html" title="Carina Basic Capri" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/p/wp09-black_main.jpg" alt="Carina Basic Capri" />
+            </a>
+                                                            <a href="http://localhost/test-store/carina-basic-capri.html" title="Carina Basic Capri" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/p/wp09-black_alt1.jpg" alt="Carina Basic Capri" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004629331913" title="Carina Basic Capri" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/1880/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/carina-basic-capri.html">Carina Basic Capri</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1880">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="51"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$51.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short empty">
+    <div class="rating-summary">
+        <div class="rating-result" title="0%">
+            <span style="width:0%"><span>0%</span></span>
+        </div>
+    </div>
+    <div class="reviews-actions">
+        <a class="action add" href="http://localhost/test-store/carina-basic-capri.html#review-form">
+            Add your review        </a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/1880/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="1880">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzE4ODAv">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"1880","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"1880","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+        <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/pursuit-lumaflex-trade-tone-band.html" title="Pursuit Lumaflex&trade; Tone Band" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/u/g/ug02-bk-0.jpg" alt="Pursuit Lumaflex&trade; Tone Band" />
+            </a>
+                                                                                </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004629323743" title="Pursuit Lumaflex&trade; Tone Band" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/18/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/pursuit-lumaflex-trade-tone-band.html">Pursuit Lumaflex&trade; Tone Band</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="18">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="16"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$16.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="60%">
+            <span style="width:60%"><span>60%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/pursuit-lumaflex-trade-tone-band.html#reviews">2&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/18/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="18">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzE4Lw,,">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"18","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"18","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+</div>
+<div class="product-block">
+            <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/elisa-evercool-trade-tee.html" title="Elisa EverCool&trade; Tee" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/s/ws06-purple_main.jpg" alt="Elisa EverCool&trade; Tee" />
+            </a>
+                                                            <a href="http://localhost/test-store/elisa-evercool-trade-tee.html" title="Elisa EverCool&trade; Tee" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/s/ws06-purple_back.jpg" alt="Elisa EverCool&trade; Tee" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004629415185" title="Elisa EverCool&trade; Tee" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/1465/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/elisa-evercool-trade-tee.html">Elisa EverCool&trade; Tee</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1465">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="29"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$29.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short empty">
+    <div class="rating-summary">
+        <div class="rating-result" title="0%">
+            <span style="width:0%"><span>0%</span></span>
+        </div>
+    </div>
+    <div class="reviews-actions">
+        <a class="action add" href="http://localhost/test-store/elisa-evercool-trade-tee.html#review-form">
+            Add your review        </a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/1465/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="1465">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzE0NjUv">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"1465","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"1465","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+        <div class="product-item-info" >
+
+    <div class="product-image">
+        <div class="product-img">
+                                                            <a href="http://localhost/test-store/clamber-watch.html" title="Clamber Watch" class="product-item-photo">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/g/wg03-gr-0.jpg" alt="Clamber Watch" />
+            </a>
+                                                            <a href="http://localhost/test-store/clamber-watch.html" title="Clamber Watch" class="hover-image">
+                <img src="http://localhost/test-store/pub/media/catalog/product/cache/small_image/360x467/beff4985b56e3afdbeabfc89641a4582/w/g/wg03-sa-0.jpg" alt="Clamber Watch" />
+            </a>
+                                            </div>
+        
+                                <div class="icon">
+                        </div>
+        
+                                                <a href="javascript:void(0)" id="productlist-fancybox-150004629410663" title="Clamber Watch" data-fancybox-href="http://localhost/test-store/productlist/index/quickview/id/43/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="700" data-fancybox-width="950" class="quick-view productlist-fancybox" >
+                    <i class="fa fa-search"></i>                </a>
+                    
+</div>
+
+
+<div class="product-item-details">
+    <div class="detail-warp">
+                                <div class="product-item-name"> <a class="product-item-link" href="http://localhost/test-store/clamber-watch.html">Clamber Watch</a></div>
+        
+                             
+                <div class="price-box price-final_price" data-role="priceBox" data-product-id="43">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span                 data-price-amount="54"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$54.00</span>    </span>
+        </span>
+
+</div>            
+                                    <div class="product-reviews-summary short">
+        <div class="rating-summary">
+        <span class="label"><span>Rating:</span></span>
+        <div class="rating-result" title="53%">
+            <span style="width:53%"><span>53%</span></span>
+        </div>
+    </div>
+        <div class="reviews-actions">
+        <a class="action view" href="http://localhost/test-store/clamber-watch.html#reviews">3&nbsp;<span>Reviews</span></a>
+    </div>
+</div>
+            
+                                                    </div>
+
+                        <div class="actions-primary">
+                                                                    <form data-role="productlist-tocart-form" action="http://localhost/test-store/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,/product/43/" method="post">
+                        <input type="hidden" name="ves" value="1">
+                        <input type="hidden" name="product" value="43">
+                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzkwWlhOMExYTjBiM0psTHcsLC9wcm9kdWN0LzQzLw,,">
+                        <input name="form_key" type="hidden" value="DzHFwgT38zHNGwcP" />                        <button type="submit"
+                        title="Add to Cart"
+                        class="action add-to-cart">
+                            <span>Add to cart</span>                        </button>
+                        </form>
+                                                </div>
+        
+                <div class="product-item-actions">
+    
+                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                    <a href="#" class="add-to-compare hidden-xs"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/catalog\/product_compare\/add\/","data":{"product":"43","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        title="Add to Compare">
+                            <i class="fa fa-signal"></i>                        </a>
+                    
+                                            <a href="#"
+                        data-post='{"action":"http:\/\/localhost\/test-store\/wishlist\/index\/add\/","data":{"product":"43","uenc":"aHR0cDovL2xvY2FsaG9zdC90ZXN0LXN0b3JlLw,,"}}'
+                        class="add-to-wishlist" data-action="add-to-wishlist"
+                        title="Add to Wish List">
+                        <i class="fa fa-heart-o"></i>                    </a>
+                            </div>
+            </div>
+    
+                
+    </div>
+        
+</div>
+</div>
+                                    </div>
+
+                            
+        </div>
+            </div>
+</div>
+
+
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+        require([
+            'jquery',
+            'Ves_Productlist/js/productlist',
+        ], function ($, productlist) {
+    		var vesProductList = $('#productlist-181491500046288').productlist().data('ves-productlist');
+                var ajaxUrl = "http://localhost/test-store/productlist/index/product/";
+                vesProductList.easyTabInit("#easytab-181491500046288").bind("easytabs:before",function(e, $clicked, $targetPanel, settings) {
+                    jQuery($targetPanel.selector).addClass("paneltab");
+                    vesProductList.equalHeight($targetPanel.selector);
+                }).bind("easytabs:after",function(e, $clicked, $targetPanel, settings) {
+                    jQuery($targetPanel.selector).removeClass("paneltab");
+                });
+                                                                            vesProductList.owlCarouselInit("#productlist-owlcarousel-181491500046288", "#productlist-random-96581500046289 .owl-carousel", "");
+                                                                                                                                                });
+    });
+});
+</script>
+</div>			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        				</div>
+		    </div>
+		    </div>
+		    	    
+	 	  	</div>
+	</div>
+</div>

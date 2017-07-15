@@ -1,0 +1,498 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1500046305;s:6:"expire";i:1500132705;s:4:"tags";s:49:"6b0_VES_PAGEBUILDER_BLOCK,6b0_BLOCK_HTML,6b0_MAGE";}
+<div class="block vesbuilder-block  ">
+		<div class="block-content">
+		<div id="ves-blockbuilder30141500046295" class="">
+ 				    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div>
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div id="ves-instagram-carousel-17161500046305" class="ves-widget block instagram_carousel_widget owlinstagramcarousel  ">
+      
+      <div id="widget-instagram-carousel17161500046305" class="widget-inner block-content ">
+            <div class="box-instagrams carousel slide">
+                  <div id="owlinstagramcarousel17161500046305" class="owl-carousel">
+                                                                                                            <div class="item first instagrams-grid no-margin">
+                                                                                                            <div class="item-row">
+                                                                                    <div class="item-instagram">
+                                          <a class="colorbox-instagram_0" href="#instagram-detail_0" >
+                                                <img style="width: 200px; height: 200px;"  src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13187962_1763668307239518_694984073_n.jpg" alt="instagram image 0"/>
+                                          </a>
+                                          <div class="hidden hide">
+                                                <div id="instagram-detail_0" >
+                                                      <img width="640" height="640" class="media" alt="instagram image 0" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13187962_1763668307239518_694984073_n.jpg"/>
+                                                      <div class="instagram-content">
+                                                            <div class="instagram-avatar" style="background-image: url(https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-19/10949073_404798733011869_1620552531_a.jpg)"></div>
+                                                            <p><a target="_blank" href="https://www.instagram.com/p/BGA607-nZpg/">venusthemes</a></p>
+                                                            <div class="instagram-comment">#fashion</div>
+                                                      </div>
+                                                </div>
+                                          </div>
+                                    <script type="text/javascript">
+                                                require([
+                                                            'jquery'
+                                                                                                                      ,"Ves_All/lib/colorbox/jquery.colorbox.min"
+                                                                                                                      ],function($){
+
+                                                                  $('.colorbox-instagram_0').colorbox({inline:true, width:"50%", opacity: 0.7});
+                                                                  $('#instagram-detail_0').hide();
+                                                                  $('.colorbox-instagram_0').click(function(){
+                                                                        $('#instagram-detail_0').show();
+                                                                  });
+                                                                  $(document).bind('cbox_closed', function(){
+                                                                        $('#instagram-detail_0').hide();
+                                                                  });
+                                                      });
+                                                      
+                                                </script>
+                                          
+                                                                        </div>
+                                                                        </div>
+                                                                                                </div>
+                                                            <div class="item  instagrams-grid no-margin">
+                                                                                                            <div class="item-row">
+                                                                                    <div class="item-instagram">
+                                          <a class="colorbox-instagram_2" href="#instagram-detail_2" >
+                                                <img style="width: 200px; height: 200px;"  src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13249788_664845610335041_1247828352_n.jpg" alt="instagram image 2"/>
+                                          </a>
+                                          <div class="hidden hide">
+                                                <div id="instagram-detail_2" >
+                                                      <img width="640" height="640" class="media" alt="instagram image 2" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13249788_664845610335041_1247828352_n.jpg"/>
+                                                      <div class="instagram-content">
+                                                            <div class="instagram-avatar" style="background-image: url(https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-19/10949073_404798733011869_1620552531_a.jpg)"></div>
+                                                            <p><a target="_blank" href="https://www.instagram.com/p/BGA6zbzHZpe/">venusthemes</a></p>
+                                                            <div class="instagram-comment">#fashion</div>
+                                                      </div>
+                                                </div>
+                                          </div>
+                                    <script type="text/javascript">
+                                                require([
+                                                            'jquery'
+                                                                                                                      ,"Ves_All/lib/colorbox/jquery.colorbox.min"
+                                                                                                                      ],function($){
+
+                                                                  $('.colorbox-instagram_2').colorbox({inline:true, width:"50%", opacity: 0.7});
+                                                                  $('#instagram-detail_2').hide();
+                                                                  $('.colorbox-instagram_2').click(function(){
+                                                                        $('#instagram-detail_2').show();
+                                                                  });
+                                                                  $(document).bind('cbox_closed', function(){
+                                                                        $('#instagram-detail_2').hide();
+                                                                  });
+                                                      });
+                                                      
+                                                </script>
+                                          
+                                                                        </div>
+                                                                        </div>
+                                                                                                </div>
+                                                            <div class="item  instagrams-grid no-margin">
+                                                                                                            <div class="item-row">
+                                                                                    <div class="item-instagram">
+                                          <a class="colorbox-instagram_4" href="#instagram-detail_4" >
+                                                <img style="width: 200px; height: 200px;"  src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13266648_1070086723070768_1770459927_n.jpg" alt="instagram image 4"/>
+                                          </a>
+                                          <div class="hidden hide">
+                                                <div id="instagram-detail_4" >
+                                                      <img width="640" height="640" class="media" alt="instagram image 4" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13266648_1070086723070768_1770459927_n.jpg"/>
+                                                      <div class="instagram-content">
+                                                            <div class="instagram-avatar" style="background-image: url(https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-19/10949073_404798733011869_1620552531_a.jpg)"></div>
+                                                            <p><a target="_blank" href="https://www.instagram.com/p/BGA6x-sHZpW/">venusthemes</a></p>
+                                                            <div class="instagram-comment">#fashion</div>
+                                                      </div>
+                                                </div>
+                                          </div>
+                                    <script type="text/javascript">
+                                                require([
+                                                            'jquery'
+                                                                                                                      ,"Ves_All/lib/colorbox/jquery.colorbox.min"
+                                                                                                                      ],function($){
+
+                                                                  $('.colorbox-instagram_4').colorbox({inline:true, width:"50%", opacity: 0.7});
+                                                                  $('#instagram-detail_4').hide();
+                                                                  $('.colorbox-instagram_4').click(function(){
+                                                                        $('#instagram-detail_4').show();
+                                                                  });
+                                                                  $(document).bind('cbox_closed', function(){
+                                                                        $('#instagram-detail_4').hide();
+                                                                  });
+                                                      });
+                                                      
+                                                </script>
+                                          
+                                                                        </div>
+                                                                        </div>
+                                                                                                </div>
+                                                            <div class="item  instagrams-grid no-margin">
+                                                                                                            <div class="item-row">
+                                                                                    <div class="item-instagram">
+                                          <a class="colorbox-instagram_6" href="#instagram-detail_6" >
+                                                <img style="width: 200px; height: 200px;"  src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13328983_1110106502383882_1127295717_n.jpg" alt="instagram image 6"/>
+                                          </a>
+                                          <div class="hidden hide">
+                                                <div id="instagram-detail_6" >
+                                                      <img width="640" height="640" class="media" alt="instagram image 6" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13328983_1110106502383882_1127295717_n.jpg"/>
+                                                      <div class="instagram-content">
+                                                            <div class="instagram-avatar" style="background-image: url(https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-19/10949073_404798733011869_1620552531_a.jpg)"></div>
+                                                            <p><a target="_blank" href="https://www.instagram.com/p/BGA6v1OHZpK/">venusthemes</a></p>
+                                                            <div class="instagram-comment">#fashion</div>
+                                                      </div>
+                                                </div>
+                                          </div>
+                                    <script type="text/javascript">
+                                                require([
+                                                            'jquery'
+                                                                                                                      ,"Ves_All/lib/colorbox/jquery.colorbox.min"
+                                                                                                                      ],function($){
+
+                                                                  $('.colorbox-instagram_6').colorbox({inline:true, width:"50%", opacity: 0.7});
+                                                                  $('#instagram-detail_6').hide();
+                                                                  $('.colorbox-instagram_6').click(function(){
+                                                                        $('#instagram-detail_6').show();
+                                                                  });
+                                                                  $(document).bind('cbox_closed', function(){
+                                                                        $('#instagram-detail_6').hide();
+                                                                  });
+                                                      });
+                                                      
+                                                </script>
+                                          
+                                                                        </div>
+                                                                        </div>
+                                                                                                </div>
+                                                            <div class="item  instagrams-grid no-margin">
+                                                                                                            <div class="item-row">
+                                                                                    <div class="item-instagram">
+                                          <a class="colorbox-instagram_8" href="#instagram-detail_8" >
+                                                <img style="width: 200px; height: 200px;"  src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13285402_105045306584775_11240301_n.jpg" alt="instagram image 8"/>
+                                          </a>
+                                          <div class="hidden hide">
+                                                <div id="instagram-detail_8" >
+                                                      <img width="640" height="640" class="media" alt="instagram image 8" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13285402_105045306584775_11240301_n.jpg"/>
+                                                      <div class="instagram-content">
+                                                            <div class="instagram-avatar" style="background-image: url(https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-19/10949073_404798733011869_1620552531_a.jpg)"></div>
+                                                            <p><a target="_blank" href="https://www.instagram.com/p/BGA6tGUnZpC/">venusthemes</a></p>
+                                                            <div class="instagram-comment">#fashion</div>
+                                                      </div>
+                                                </div>
+                                          </div>
+                                    <script type="text/javascript">
+                                                require([
+                                                            'jquery'
+                                                                                                                      ,"Ves_All/lib/colorbox/jquery.colorbox.min"
+                                                                                                                      ],function($){
+
+                                                                  $('.colorbox-instagram_8').colorbox({inline:true, width:"50%", opacity: 0.7});
+                                                                  $('#instagram-detail_8').hide();
+                                                                  $('.colorbox-instagram_8').click(function(){
+                                                                        $('#instagram-detail_8').show();
+                                                                  });
+                                                                  $(document).bind('cbox_closed', function(){
+                                                                        $('#instagram-detail_8').hide();
+                                                                  });
+                                                      });
+                                                      
+                                                </script>
+                                          
+                                                                        </div>
+                                                                        </div>
+                                                                                                </div>
+                                                            <div class="item  instagrams-grid no-margin">
+                                                                                                            <div class="item-row">
+                                                                                    <div class="item-instagram">
+                                          <a class="colorbox-instagram_10" href="#instagram-detail_10" >
+                                                <img style="width: 200px; height: 200px;"  src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13261004_1630804527244309_1214597223_n.jpg" alt="instagram image 10"/>
+                                          </a>
+                                          <div class="hidden hide">
+                                                <div id="instagram-detail_10" >
+                                                      <img width="640" height="640" class="media" alt="instagram image 10" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13261004_1630804527244309_1214597223_n.jpg"/>
+                                                      <div class="instagram-content">
+                                                            <div class="instagram-avatar" style="background-image: url(https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-19/10949073_404798733011869_1620552531_a.jpg)"></div>
+                                                            <p><a target="_blank" href="https://www.instagram.com/p/BGA6rXRnZo-/">venusthemes</a></p>
+                                                            <div class="instagram-comment">#fashion</div>
+                                                      </div>
+                                                </div>
+                                          </div>
+                                    <script type="text/javascript">
+                                                require([
+                                                            'jquery'
+                                                                                                                      ,"Ves_All/lib/colorbox/jquery.colorbox.min"
+                                                                                                                      ],function($){
+
+                                                                  $('.colorbox-instagram_10').colorbox({inline:true, width:"50%", opacity: 0.7});
+                                                                  $('#instagram-detail_10').hide();
+                                                                  $('.colorbox-instagram_10').click(function(){
+                                                                        $('#instagram-detail_10').show();
+                                                                  });
+                                                                  $(document).bind('cbox_closed', function(){
+                                                                        $('#instagram-detail_10').hide();
+                                                                  });
+                                                      });
+                                                      
+                                                </script>
+                                          
+                                                                        </div>
+                                                                        </div>
+                                                                                                </div>
+                                                            <div class="item  instagrams-grid no-margin">
+                                                                                                            <div class="item-row">
+                                                                                    <div class="item-instagram">
+                                          <a class="colorbox-instagram_12" href="#instagram-detail_12" >
+                                                <img style="width: 200px; height: 200px;"  src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13248904_1055556261186129_1877530214_n.jpg" alt="instagram image 12"/>
+                                          </a>
+                                          <div class="hidden hide">
+                                                <div id="instagram-detail_12" >
+                                                      <img width="640" height="640" class="media" alt="instagram image 12" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13248904_1055556261186129_1877530214_n.jpg"/>
+                                                      <div class="instagram-content">
+                                                            <div class="instagram-avatar" style="background-image: url(https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-19/10949073_404798733011869_1620552531_a.jpg)"></div>
+                                                            <p><a target="_blank" href="https://www.instagram.com/p/BGA6ooGnZo4/">venusthemes</a></p>
+                                                            <div class="instagram-comment">#fashion</div>
+                                                      </div>
+                                                </div>
+                                          </div>
+                                    <script type="text/javascript">
+                                                require([
+                                                            'jquery'
+                                                                                                                      ,"Ves_All/lib/colorbox/jquery.colorbox.min"
+                                                                                                                      ],function($){
+
+                                                                  $('.colorbox-instagram_12').colorbox({inline:true, width:"50%", opacity: 0.7});
+                                                                  $('#instagram-detail_12').hide();
+                                                                  $('.colorbox-instagram_12').click(function(){
+                                                                        $('#instagram-detail_12').show();
+                                                                  });
+                                                                  $(document).bind('cbox_closed', function(){
+                                                                        $('#instagram-detail_12').hide();
+                                                                  });
+                                                      });
+                                                      
+                                                </script>
+                                          
+                                                                        </div>
+                                                                        </div>
+                                                                                                </div>
+                                                            <div class="item  instagrams-grid no-margin">
+                                                                                                            <div class="item-row">
+                                                                                    <div class="item-instagram">
+                                          <a class="colorbox-instagram_14" href="#instagram-detail_14" >
+                                                <img style="width: 200px; height: 200px;"  src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13150950_1101083689965115_573716558_n.jpg" alt="instagram image 14"/>
+                                          </a>
+                                          <div class="hidden hide">
+                                                <div id="instagram-detail_14" >
+                                                      <img width="640" height="640" class="media" alt="instagram image 14" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13150950_1101083689965115_573716558_n.jpg"/>
+                                                      <div class="instagram-content">
+                                                            <div class="instagram-avatar" style="background-image: url(https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-19/10949073_404798733011869_1620552531_a.jpg)"></div>
+                                                            <p><a target="_blank" href="https://www.instagram.com/p/BFZDTMXHZuW/">venusthemes</a></p>
+                                                            <div class="instagram-comment"></div>
+                                                      </div>
+                                                </div>
+                                          </div>
+                                    <script type="text/javascript">
+                                                require([
+                                                            'jquery'
+                                                                                                                      ,"Ves_All/lib/colorbox/jquery.colorbox.min"
+                                                                                                                      ],function($){
+
+                                                                  $('.colorbox-instagram_14').colorbox({inline:true, width:"50%", opacity: 0.7});
+                                                                  $('#instagram-detail_14').hide();
+                                                                  $('.colorbox-instagram_14').click(function(){
+                                                                        $('#instagram-detail_14').show();
+                                                                  });
+                                                                  $(document).bind('cbox_closed', function(){
+                                                                        $('#instagram-detail_14').hide();
+                                                                  });
+                                                      });
+                                                      
+                                                </script>
+                                          
+                                                                        </div>
+                                                                        </div>
+                                                                                                </div>
+                                                            <div class="item  instagrams-grid no-margin">
+                                                                                                            <div class="item-row">
+                                                                                    <div class="item-instagram">
+                                          <a class="colorbox-instagram_16" href="#instagram-detail_16" >
+                                                <img style="width: 200px; height: 200px;"  src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/c135.0.809.809/12523625_957903994305401_1151814916_n.jpg" alt="instagram image 16"/>
+                                          </a>
+                                          <div class="hidden hide">
+                                                <div id="instagram-detail_16" >
+                                                      <img width="640" height="640" class="media" alt="instagram image 16" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/12523625_957903994305401_1151814916_n.jpg"/>
+                                                      <div class="instagram-content">
+                                                            <div class="instagram-avatar" style="background-image: url(https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-19/10949073_404798733011869_1620552531_a.jpg)"></div>
+                                                            <p><a target="_blank" href="https://www.instagram.com/p/BDD30urHZmc/">venusthemes</a></p>
+                                                            <div class="instagram-comment"></div>
+                                                      </div>
+                                                </div>
+                                          </div>
+                                    <script type="text/javascript">
+                                                require([
+                                                            'jquery'
+                                                                                                                      ,"Ves_All/lib/colorbox/jquery.colorbox.min"
+                                                                                                                      ],function($){
+
+                                                                  $('.colorbox-instagram_16').colorbox({inline:true, width:"50%", opacity: 0.7});
+                                                                  $('#instagram-detail_16').hide();
+                                                                  $('.colorbox-instagram_16').click(function(){
+                                                                        $('#instagram-detail_16').show();
+                                                                  });
+                                                                  $(document).bind('cbox_closed', function(){
+                                                                        $('#instagram-detail_16').hide();
+                                                                  });
+                                                      });
+                                                      
+                                                </script>
+                                          
+                                                                        </div>
+                                                                        </div>
+                                                                                                </div>
+                                                            <div class="item last instagrams-grid no-margin">
+                                                                                                            <div class="item-row">
+                                                                                    <div class="item-instagram">
+                                          <a class="colorbox-instagram_18" href="#instagram-detail_18" >
+                                                <img style="width: 200px; height: 200px;"  src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/c0.134.1080.1080/12328430_183083432071905_1177009990_n.jpg" alt="instagram image 18"/>
+                                          </a>
+                                          <div class="hidden hide">
+                                                <div id="instagram-detail_18" >
+                                                      <img width="640" height="640" class="media" alt="instagram image 18" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/12328430_183083432071905_1177009990_n.jpg"/>
+                                                      <div class="instagram-content">
+                                                            <div class="instagram-avatar" style="background-image: url(https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-19/10949073_404798733011869_1620552531_a.jpg)"></div>
+                                                            <p><a target="_blank" href="https://www.instagram.com/p/BCzeOy5nZnE/">venusthemes</a></p>
+                                                            <div class="instagram-comment"></div>
+                                                      </div>
+                                                </div>
+                                          </div>
+                                    <script type="text/javascript">
+                                                require([
+                                                            'jquery'
+                                                                                                                      ,"Ves_All/lib/colorbox/jquery.colorbox.min"
+                                                                                                                      ],function($){
+
+                                                                  $('.colorbox-instagram_18').colorbox({inline:true, width:"50%", opacity: 0.7});
+                                                                  $('#instagram-detail_18').hide();
+                                                                  $('.colorbox-instagram_18').click(function(){
+                                                                        $('#instagram-detail_18').show();
+                                                                  });
+                                                                  $(document).bind('cbox_closed', function(){
+                                                                        $('#instagram-detail_18').hide();
+                                                                  });
+                                                      });
+                                                      
+                                                </script>
+                                          
+                                                                        </div>
+                                                                        </div>
+                                                                                                </div>
+                                          </div>
+                                          <div class="customNavigation">
+                  <a class="carousel-prev17161500046305" href="javascript:;" title="Prev"><i class="fa fa-angle-left"></i></a>
+                  <a class="carousel-next17161500046305" href="javascript:;" title="Next"><i class="fa fa-angle-right"></i></a>
+            </div>
+                  </div>
+</div>
+
+      <div class="block-title">
+                        <strong><span>Instagram feed</span></strong>
+      </div>
+
+</div>
+
+<script type="text/javascript">
+      require([
+            'jquery'
+                         ,"Ves_All/lib/owl.carousel/owl.carousel.min"
+                        ],function($){
+                var widgetowlcarousel = jQuery('#owlinstagramcarousel17161500046305');
+                    widgetowlcarousel.owlCarousel({
+                        autoplay: false,
+                                                autoplaySpeed: 1000,
+                                                autoplayTimeout: 0,
+                                                                        autoplayHoverPause: false,
+                        nav: false,
+                        navigation: false,
+                                                autoWidth: false,
+                        autoHeight: false,
+                        slideBy: 1,
+                        loop: false,
+                        margin: 0,
+                        navSpeed:  false,
+                        dot: false,
+                        dotsSpeed: 800,
+                        mouseDrag: false,
+                        touchDrag: false,
+                        pullDrag: false,
+                        lazyLoad: false,
+                        items: 7
+                                                ,responsive: {
+                                                            0: {
+                                    items: 2,
+                                    nav: true,
+                                    loop: true
+                              },
+                                                                                          600: {
+                                    items: 4,
+                                    nav: true,
+                                    loop: true
+                              },
+                                                                                          767: {
+                                    items: 4,
+                                    nav: true,
+                                    loop: true
+                              },
+                                                                                          1000: {
+                                    items: 6,
+                                    nav: true,
+                                    loop: true
+                              },
+                                                            1200: {
+                                    items: 7,
+                                    nav: true,
+                                    loop: true
+                              },
+                                                            1900: {
+                                    items: 10,
+                                    nav: true,
+                                    loop: true
+                              }
+                                                      }
+                                            });
+
+                                    jQuery(".carousel-prev17161500046305").click(function () {
+                        widgetowlcarousel.trigger('prev.owl.carousel');
+                        });
+                  jQuery(".carousel-next17161500046305").click(function () {
+                        widgetowlcarousel.trigger('next.owl.carousel');
+                  });
+                      
+            });
+</script>
+
+      
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        				</div>
+		    </div>
+		    </div>
+		    	    
+	 	  	</div>
+	</div>
+</div>
