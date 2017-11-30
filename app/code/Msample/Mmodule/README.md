@@ -1,4 +1,4 @@
-# m2-foggyline-office
+# Sample Module to Start Advance Module Development
 
 ### Installation
 
@@ -9,7 +9,7 @@ $ composer require koncz/m2-foggyline-office:dev-master
 
 Manually:
 
-Copy the zip into app/code/Foggyline/Office directory
+Copy the zip into app/code/Msample/Mmodule directory
 
 
 #### After installation by either means, enable the extension by running following commands:
