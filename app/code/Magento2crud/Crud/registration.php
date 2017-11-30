@@ -2,4 +2,5 @@
 
 echo 'something';
 
+echo 'xyz';
 ?>
